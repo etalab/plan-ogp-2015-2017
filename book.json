@@ -1,0 +1,15 @@
+{
+  "gitbook": ">=2.0.0",
+  "plugins": [
+    "edit-link"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://git.framasoft.org/etalab/suivi/tree/master",
+      "label": {
+        "en": "View Source Code",
+        "fr": "Voir le code source"
+      }
+    }
+  }
+}
