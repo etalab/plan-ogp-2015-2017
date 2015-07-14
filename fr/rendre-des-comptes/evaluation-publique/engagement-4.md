@@ -2,11 +2,11 @@
 
 ##  Ouvrir l’accès aux évaluations de politiques publiques et à leurs conclusions
 
-**Institutions porteuses :**
-- Secrétariat d'État chargé de la Réforme de l'État et de la Simplification
-auprès du Premier ministre
+**Institutions porteuses** :
+- Secrétariat d'État chargé de la Réforme de l'État et de la Simplification auprès du Premier ministre
 
 ### Enjeux
+
 **L’évaluation des politiques publiques aide les décideurs à rendre l’action publique plus
 pertinente, efficace et efficiente, et contribue à l’information du citoyen**. Les enjeux de
 l’évaluation dépassent ceux de ses protagonistes directs et concernent l'ensemble des
@@ -14,6 +14,7 @@ citoyens. Toutefois, l’accès à ces différents travaux reste complexe du fai
 d’acteurs impliqués et de la pluralité des supports de diffusion retenus.
 
 ### Contexte
+
 La circulaire du Premier ministre du 23 février 1989 (10 mai 1988/15 mai 1991) sur le renouveau
 du service public a marqué une étape importante dans l’affirmation des évaluations des
 politiques publiques comme outil de modernisation de l’action publique.
@@ -40,7 +41,7 @@ Pour ce faire, le gouvernement s’appuie en premier lieu sur l’exemplarité d
 démarche. 59 évaluations ont été lancées depuis fin 2012, couvrant de nombreux champs
 de politique publique (affaires sociales, éducation nationale, justice, écologie, logement,
 etc.) En juin 2015, 43 rapports ont été publiés sur le site internet du secrétariat général pour la
-modernisation de l’action publique (SGMAP) 11 (certaines évaluations sont encore en cours).
+modernisation de l’action publique (SGMAP)[^1] (certaines évaluations sont encore en cours).
 Par ailleurs, un espace dédié présente, sous forme d’une jauge, l’état d’avancement de
 chaque évaluation (par grands jalons : lancement, diagnostic, scénarios de transformation,
 rapport, mise en œuvre), ainsi que la documentation associée. La méthodologie promue par
@@ -63,21 +64,13 @@ l’exercice de leur fonction d’élaboration de la Loi et de contrôle du gouv
 décideurs et gestionnaires publics, et aux citoyens.
 
 ### Feuille de route
-- **Encourager l’ensemble des acteurs de l’évaluation à mettre à disposition leurs travaux
-dans l’observatoire de l’évaluation des politiques publiques pour améliorer son
-exhaustivité, faciliter les recherches dans l’observatoire (accès par mot clé, etc.)**
-    - Rendre accessible à tous l’Observatoire de l’évaluation des politiques publiques, base
-documentaire de référencement des évaluations de politiques publiques
-    - Systématiser la publication des évaluations de politiques publiques lancées dans le
-cadre de la modernisation de l’action publique (hors empêchement juridique)
-- **Systématiser et enrichir la participation citoyenne dans les évaluations coordonnées par
-le SGMAP, par exemple à travers des enquêtes d’opinion, des ateliers de travail, des jurys
-citoyens, et d’autres formes de participation**
-- **Améliorer la traçabilité de l’impact sur l’action publique des évaluations de politiques
-publiques lancées dans le cadre de la modernisation de l’action publique**
 
+- **Encourager l’ensemble des acteurs de l’évaluation à mettre à disposition leurs travaux dans l’observatoire de l’évaluation des politiques publiques pour améliorer son exhaustivité, faciliter les recherches dans l’observatoire (accès par mot clé, etc.)**
+    - Rendre accessible à tous l’Observatoire de l’évaluation des politiques publiques, base documentaire de référencement des évaluations de politiques publiques
+    - Systématiser la publication des évaluations de politiques publiques lancées dans le cadre de la modernisation de l’action publique (hors empêchement juridique)
+- **Systématiser et enrichir la participation citoyenne dans les évaluations coordonnées par le SGMAP, par exemple à travers des enquêtes d’opinion, des ateliers de travail, des jurys citoyens, et d’autres formes de participation**
+- **Améliorer la traçabilité de l’impact sur l’action publique des évaluations de politiques publiques lancées dans le cadre de la modernisation de l’action publique**
 
+----
 
-
-
-
+[^1]: http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-evaluant-ses-politiques-publiques/evaluer-les-politiques-publiques

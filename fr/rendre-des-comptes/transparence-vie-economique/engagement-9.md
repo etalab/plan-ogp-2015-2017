@@ -1,13 +1,14 @@
 # Engagement 9
- 
+
 ## Accroître la transparence sur les négociations commerciales internationales
 
-**Institutions porteuses :**
+**Institutions porteuses** :
 - Ministère de l’Écologie, du Développement durable et de l'Énergie
 - Ministère de l'Économie, de l'Industrie et du Numérique
 - Secrétariat d'État chargé du Commerce extérieur, de la Promotion du tourisme et des Français de l'étranger, auprès du Ministre des Affaires étrangères et du Développement international
 
 ### Enjeux
+
 La France est engagée dans de nombreux cycles de négociations commerciales
 multilatérales à fort impact économique. **La mise en place d’un dialogue avec la société
 civile et la transparence des positions françaises facilitent la compréhension par les
@@ -17,6 +18,7 @@ environnementales), diversité culturelle, barrières non tarifaires, accès aux
 mécanismes de règlement des différends…
 
 ### Contexte
+
 Le secrétariat d’État chargé du Commerce extérieur s’est engagé à mettre en œuvre un
 agenda de transparence sur les négociations commerciales internationales.
 
@@ -49,25 +51,16 @@ ainsi que les rapports annuels au Parlement sur les négociations commerciales, 
 corpus : il s’agit principalement des mandats de négociation de la Commission européenne
 rendus publics, des « documents de position » officiels mis à la disposition du public et du
 texte des traités de commerce ratifiés et publics. Des études et éléments d’analyse et
-d’évaluation des accords commerciaux ex post et ex ante, qu’ils soient transversaux ou
+d’évaluation des accords commerciaux _ex post_ et _ex ante_, qu’ils soient transversaux ou
 sectoriels, seront également ajoutés au corpus.
 
 ### Feuille de route
+
 - **Eclairer la société civile sur le contenu des négociations internationales**
-    - Les éléments relatifs à chaque nouveau cycle de négociation commerciale
-internationale seront mis à disposition du public en continu sur la page dédiée du site
-diplomatie.gouv.fr et en open data sur data.gouv.fr
-    - Des éléments complémentaires, tels que les mandats, pourront être ajoutés selon les
-décisions de déclassification prises par l’Union européenne
-    - Le stock des éléments relatifs aux négociations commerciales internationales passées
-sera ajouté à ce corpus, comme les mandats de négociation de la Commission
-européenne rendus publics, les documents de position officiels mis à la disposition du
-public et le texte des traités de commerce ratifiés et publics
+    - Les éléments relatifs à chaque nouveau cycle de négociation commerciale internationale seront mis à disposition du public en continu sur la page dédiée du site diplomatie.gouv.fr et en open data sur data.gouv.fr
+    - Des éléments complémentaires, tels que les mandats, pourront être ajoutés selon les décisions de déclassification prises par l’Union européenne
+    - Le stock des éléments relatifs aux négociations commerciales internationales passées sera ajouté à ce corpus, comme les mandats de négociation de la Commission européenne rendus publics, les documents de position officiels mis à la disposition du public et le texte des traités de commerce ratifiés et publics
 - **Assurer un maximum de publicité aux évaluations et au suivi des accords internationaux**
-    - Des études et éléments d’analyse et d’évaluation des accords commerciaux ex-post
-et ex-ante, qu’ils soient transversaux ou sectoriels, pourront également être ajoutés
-    - La représentation nationale pourra être informée grâce à la remise d’un rapport
-annuel sur les négociations commerciales internationales
-    - Tous les comptes rendus du Comité de suivi stratégique des sujets de politique
-commerciale seront portés à la connaissance du public, ainsi que les rapports annuels
-sur les négociations commerciales internationales
+    - Des études et éléments d’analyse et d’évaluation des accords commerciaux ex-post et ex-ante, qu’ils soient transversaux ou sectoriels, pourront également être ajoutés
+    - La représentation nationale pourra être informée grâce à la remise d’un rapport annuel sur les négociations commerciales internationales
+    - Tous les comptes rendus du Comité de suivi stratégique des sujets de politique commerciale seront portés à la connaissance du public, ainsi que les rapports annuels sur les négociations commerciales internationales

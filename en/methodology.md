@@ -57,4 +57,4 @@ subsequent versions of it.
 
 ----
 
-[^1] : http://contribuez.cnnumerique.fr/actualite/les-6-mois-de-la-concertation-nationale-%E2%80%9Cambition-num%C3%A9rique%E2%80%9D-en-data
+[^1]: http://contribuez.cnnumerique.fr/actualite/les-6-mois-de-la-concertation-nationale-%E2%80%9Cambition-num%C3%A9rique%E2%80%9D-en-data

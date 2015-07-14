@@ -2,10 +2,11 @@
 
 ## Impliquer davantage les citoyens dans les travaux menés par la Cour des comptes
 
-**Institution porteuse :**
+**Institution porteuse** :
 - Cour des comptes
 
 ### Enjeux
+
 Chargée par la Constitution de porter une appréciation libre, indépendante et collégiale sur
 l’usage qui est fait des deniers publics, la Cour des comptes est l’une des grandes institutions
 de la République. Juridiction indépendante, elle se situe à équidistance du Parlement et du
@@ -18,6 +19,7 @@ menés par la Cour des comptes participent à l’engagement de l’institution 
 démarche française de gouvernement ouvert.
 
 ### Contexte
+
 Chaque année, la Cour, les chambres régionales et territoriales des comptes, ainsi que les
 organismes qui lui sont rattachés (Haut Conseil des finances publiques, Cour de discipline
 budgétaire et financière, Conseil des prélèvements obligatoires, etc.) rendent publics des
@@ -40,29 +42,21 @@ réserve des précautions inhérentes au fonctionnement d’une juridiction ind�
 notamment le respect des secrets protégés par la loi.
 
 ### Feuille de route
-- **Diffuser en open data certaines données collectées lors de contrôles et d’évaluations,
-ainsi que des données propres aux juridictions financières**
 
-La Cour des comptes s’engage à mettre à disposition régulièrement les jeux de données
-suivants :
-- Les données budgétaires fondant ou ayant fondé l’analyse de l’exécution du budget
-de l’État
-- À chaque fois que cela sera possible, les données fondant ou ayant fondé les
-enquêtes thématiques de la Cour
-- Les données fondant ou ayant fondé les travaux concernant les finances locales
-- Certaines données d’activité des juridictions financières, notamment la mise à jour de
-la liste des publications de la Cour et des moyens des juridictions financières
+- **Diffuser en open data certaines données collectées lors de contrôles et d’évaluations, ainsi que des données propres aux juridictions financières**
 
-La Cour des comptes étudiera également, en lien avec les services du Premier ministre, la
-mise en place d’un portail de données « data.ccomptes.fr », répertorié sur le portail du
-gouvernement (data.gouv.fr), afin de systématiser une stratégie de gestion des données et la
-démarche d’ouverture des informations publiques.
+  La Cour des comptes s’engage à mettre à disposition régulièrement les jeux de données suivants :
+
+  - Les données budgétaires fondant ou ayant fondé l’analyse de l’exécution du budget de l’État
+  - À chaque fois que cela sera possible, les données fondant ou ayant fondé les enquêtes thématiques de la Cour
+  - Les données fondant ou ayant fondé les travaux concernant les finances locales
+  - Certaines données d’activité des juridictions financières, notamment la mise à jour de la liste des publications de la Cour et des moyens des juridictions financières
+
+  La Cour des comptes étudiera également, en lien avec les services du Premier ministre, la mise en place d’un portail de données « data.ccomptes.fr », répertorié sur le portail du gouvernement (data.gouv.fr), afin de systématiser une stratégie de gestion des données et la démarche d’ouverture des informations publiques.
 
 - **Intéresser davantage le citoyen aux travaux de la Cour des comptes**
 
-Cette implication pourrait prendre plusieurs formes :
-- une enquête d’opinion afin de mieux identifier les attentes du citoyen vis-à-vis des
-travaux de la Cour, sur le fond comme sur la forme
-- un espace contributif permettant une remontée des préoccupations des citoyens
+  Cette implication pourrait prendre plusieurs formes :
 
-
+  - une enquête d’opinion afin de mieux identifier les attentes du citoyen vis-à-vis des travaux de la Cour, sur le fond comme sur la forme
+  - un espace contributif permettant une remontée des préoccupations des citoyens

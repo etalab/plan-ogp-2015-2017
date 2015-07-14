@@ -2,10 +2,11 @@
 
 ## Faciliter l’accès aux données relatives aux obligations de transparence des responsables publics
 
-**Institutions porteuses :**
+**Institution porteuse** :
 - Haute Autorité pour la transparence de la vie publique
 
 ### Contexte
+
 **Depuis les lois du 11 octobre 2013, la transparence de la vie publique connait une nouvelle
 impulsion**. Ces lois prévoient notamment que les 10 000 plus hauts responsables publics élus
 ou nommés doivent déclarer leur patrimoine et leurs intérêts à la **Haute Autorité pour la
@@ -28,18 +29,10 @@ déclarations manuscrites. Cette dynamique doit ainsi être poursuivie en encour
 diffusion des données publiées dans un format ouvert et aisément exploitable.
 
 ### Feuille de route
-- **Publier sous format ouvert et réutilisable les données publiques des déclarations de
-situation patrimoniale et d’intérêts soumises à publicité et effectuées par l’intermédiaire
-d’un télé-service** (déclarations de situation patrimoniale des membres du gouvernement
-et déclarations d’intérêts des membres du gouvernement, parlementaires, représentants
-français au Parlement européen et principaux élus locaux)
 
-    - L’évolution de l’application pour déclarer en ligne (ADEL) rendra possible, courant
-2016, la diffusion des informations dans un format réutilisable
-    - L’action de sensibilisation, menée par la HATVP en faveur de la télé-déclaration, sera
-intensifiée auprès des personnes soumises aux obligations déclaratives, pour garantir
-un fort taux de télé déclaration et, partant, un volume important de données publiées
-en open data
+- **Publier sous format ouvert et réutilisable les données publiques des déclarations de situation patrimoniale et d’intérêts soumises à publicité et effectuées par l’intermédiaire d’un télé-service** (déclarations de situation patrimoniale des membres du gouvernement et déclarations d’intérêts des membres du gouvernement, parlementaires, représentants français au Parlement européen et principaux élus locaux)
+    - L’évolution de l’application pour déclarer en ligne (ADEL) rendra possible, courant 2016, la diffusion des informations dans un format réutilisable
+    - L’action de sensibilisation, menée par la HATVP en faveur de la télé-déclaration, sera intensifiée auprès des personnes soumises aux obligations déclaratives, pour garantir un fort taux de télé déclaration et, partant, un volume important de données publiées en open data
 
 ----
 
