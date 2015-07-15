@@ -29,10 +29,14 @@ This initiative is a first step towards the creation of a resource center that w
 
 - **Encourage all actors involved in evaluations to make their work available in the Public Policies Evaluation Observatory, to improve its comprehensiveness and facilitate research through its database (access by keyword, etc.)**
     - Make the Public Policies Evaluation Observatory available to all, as the reference database for public policies evaluations
-- **Systematize the publication of public policies evaluations launched in the context of government modernization programs (when not prevented by legal considerations)
-Systematize and improve citizens' participation in evaluations coordinated by the SGMAP, for example through opinion surveys, workshops for citizens' juries, etc.**
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/135)]_
+    - Systematize the publication of public policies evaluations launched in the context of government modernization programs (when not prevented by legal considerations)
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/137)]_
+- **Systematize and improve citizens' participation in evaluations coordinated by the SGMAP, for example through opinion surveys, workshops for citizens' juries, etc.**
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/138)]_
 - **Improve the traceability of impact on public action of public policies evaluations launched under government modernization programs**
-
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/141)]_
+ 
 ----
 
 [^1]: http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-evaluant-ses-politiques-publiques/evaluer-les-politiques-publiques
