@@ -29,15 +29,22 @@ The French Development Agency will gradually open data on funding granted to sec
 - **Continue the provision of data on public development aid by extending the scope of zones and the types of projects covered**
     - _2015_:
         - Opening, in June, of the French Development Agency (AFD) data on funding granted within their sector of responsibility in the sub-Saharan African and Mediterranean countries.
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/125)]_
         - Gradual opening in the second half-year by the MAEDI (Ministry of Foreign Affairs and International Development) data for the African zone (countries to be determined)
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/126)]_
         - Publication of data relating to priority solidarity fund projects, humanitarian aid, food aid, co-development projects and actions of the DAECT (Delegation for External Action of Local and Regional Authorities) on the portal "data.gouv.fr"
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/128)]_
     - _2016_:
         - Gradual opening of the MAEDI data on Asia-Pacific, Latin America and the Caribbean (countries to be determined)
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/129)]_
         - Opening at the end of June, by the AFD data on Asia-Pacific, Latin America and the Caribbean (sovereign sector for the AFD)
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/130)]_
         - Publication of the AFD and MAEDI open data, in the IATI format, on projects run by NGOs (whatever their amount) in the countries already subject to the publication of this data
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/131)]_
     - _2017_:
         - Reduction, by the AFD and the MAEDI, of the publication threshold from €100,000 to €50,000 for all projects in the countries already concerned (except NGO projects, published whatever their amount)
-
+        _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/132)]_
+        
 All of these releases should be in open data, published regularly, in the IATI format and for projects of €100,000 or more.
 
 ----
