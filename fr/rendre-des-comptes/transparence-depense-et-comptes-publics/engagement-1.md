@@ -36,14 +36,20 @@ publiant davantage de données financières.
 
 - **Permettre aux citoyens de mieux saisir les enjeux financiers des collectivités territoriales**
     - Publier en open data la Dotation globale de Fonctionnement, contribution financière de l’État aux collectivités territoriales
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/111)]_
     - Publier en open data, sur [data.gouv.fr](http://www.data.gouv.fr/), l'intégralité des balances comptables, à compter de l'exercice 2013, des collectivités locales et des groupements à fiscalité propre
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/112)]_
     - Rendre obligatoire pour les exécutifs locaux et les présidents d'EPCI[^2] de présenter un rapport devant l'assemblée délibérante (conseil municipal, départemental ou régional) sur les suites données aux observations de la chambre régionale des comptes
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/113)]_
 - **Mettre à disposition régulièrement les données financières des juridictions financières**
     - Les données fondant les travaux concernant les finances locales
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/114)]_
     - Certaines données d’activité des juridictions financières, notamment la mise à jour de la liste des publications de la Cour et des moyens des juridictions financières
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/115)]_
 - **Renforcer l’open data des collectivités territoriales : inscrire dans la loi l’obligation de
 publier les informations publiques des collectivités de plus de 3 500 habitants (y compris
 communes et EPCI)**
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/116)]_
 
 #### Et aussi :
 
@@ -80,10 +86,12 @@ de la République (NOTRe).**
 - **Publier sous forme électronique, et mettre à disposition de manière permanente et
 gratuite, en plus d’une version papier, le recueil des actes administratifs des délibérations
 et arrêtés municipaux des collectivités**
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/117)]_
 - **Afficher dans un délai d’une semaine suivant le conseil municipal et mettre en ligne sur le
 site internet de la commune, quand ils existent, les comptes rendus des conseils
 municipaux, pendant six ans minimum** (contre un affichage simple sous huit jours sans
 durée minimale auparavant)
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/118)]_
 
 ### Publier en open data des données relatives aux permis de construire
 
@@ -106,6 +114,7 @@ disposition de données granulaires nécessite un important travail d’anonymis
 - **Engager un groupe de travail avec les parties prenantes pour faire organiser
 progressivement la disponibilité en open data des données relatives aux permis de
 construire d’ici 2017**
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/119)]_
     - Cette collaboration pourra par exemple réunir l’Administrateur général des données,
 Etalab, le Commissariat général du Développement durable et les collectivités
 territoriales (via l’association Open Data France, par exemple)
