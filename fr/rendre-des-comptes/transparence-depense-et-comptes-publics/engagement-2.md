@@ -68,14 +68,19 @@ Association OpenDataFrance, [contribution en ligne #2925](http://contribuez.cnnu
 ### Feuille de route
 
 - **Standardiser le format des données de publicité des appels d’offre**
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/120)]_
 - **Mettre à disposition, en open data, les données du Bulletin officiel des annonces de marchés publics (BOAMP), les données des organes de publication et celles des profils
 d’acheteur**
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/121)]_
 - **Encourager le développement de la publication des informations sur les marchés publics attribués**
     - Rendre obligatoire cette publication au-dessus des seuils fixés par voie réglementaire et développer les mesures d’accompagnement incitant les acheteurs à faire de même pour les marchés inférieurs à ces seuils et développer la publicité des profils d’acheteurs
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/122)]_
     - Promouvoir l’open data, notamment grâce à la standardisation des formulaires et leur présentation en format exploitable informatiquement et facilement réutilisable. Les données à ouvrir en priorité seront déterminées à la suite d’une phase d’étude qui n’excédera pas un an
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/123)]_
 - **Inclure dans les contrats passés par les acheteurs des clauses d’ouverture des données**
     - Inciter les prestataires à ouvrir les données produites dans le cadre de l’exécution d’un marché par la définition d’un Cahier des clauses administratives générales (CCAG) type
-
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/124)]_
+     
 ### Et aussi :
 
 - Les marchés publics de la **Ville de Paris** comportent désormais une clause « Open Data[^6] » : depuis le 17 avril 2014, chaque appel d’offre comprend des dispositions obligeant le futur prestataire à libérer les données produites dans le cadre de l’exécution du marché auquel il répond
