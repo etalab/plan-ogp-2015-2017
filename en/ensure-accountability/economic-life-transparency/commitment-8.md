@@ -22,7 +22,9 @@ At the same time, France argued for the adoption, at the European level, of a **
 
 ### Roadmap
 
-- **Join the Extractive Industries Transparency Initiative (EITI) and work on the accessibility of open data as part of ITIE and of the declarations of companies, according to chapter 10 of the European accounting directive**
+- **Join the Extractive Industries Transparency Initiative (EITI) and work on the accessibility of open data as part of ITIE 
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/133)]_
+and of the declarations of companies, according to chapter 10 of the European accounting directive**
     - Summer 2015: designate a French high representative for ITIE and set up a project team with the necessary human and financial resources to prepare the French application to join ITIE
     - September 2015: establish a national tripartite committee for ITIE
     - March 2016: first declaration of companies as required by chapter 10 of the accounting directive
