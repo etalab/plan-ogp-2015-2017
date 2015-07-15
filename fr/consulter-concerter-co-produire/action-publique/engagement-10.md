@@ -80,6 +80,7 @@ sécurité des systèmes d’information, concernera les sites web publics et pa
 2016
 
 - Ouvrir la plateforme au public fin 2016
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/142)]_
 
 ----
 
