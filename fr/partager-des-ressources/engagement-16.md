@@ -27,5 +27,7 @@ En 2014, le secrétariat général pour la modernisation de l’action publique 
 
 - **Étendre l’ouverture des modèles à d’autres champs de l’action publique**
     - Continuer à travailler avec les différentes administrations pour les accompagner dans l’ouverture de leurs modèles de calculs et de simulation
+    [[suivi](https://git.framasoft.org/etalab/suivi/issues/160)]
 - **Produire des simulateurs à partir des modèles ouverts existants**
     - Capitaliser sur la plateforme OpenFisca pour l’étendre à d’autres domaines de la législation et proposer des déclinaisons de simulateurs utiles aux citoyens, aux acteurs économiques et aux acteurs publics : par exemple, un modèle de simulation des coûts énergétiques, une extension à la fiscalité locale, aux calculs de retraite….
+    [[suivi](https://git.framasoft.org/etalab/suivi/issues/161)]
