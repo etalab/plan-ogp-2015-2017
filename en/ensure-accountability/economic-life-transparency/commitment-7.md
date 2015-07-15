@@ -28,7 +28,7 @@ In order to improve this transparency, it is proposed to make the identification
 ### Roadmap
 
 - **Use a centralized registry, composed of various data, including data from the French central public registry for companies called Registre du Commerce et des Sociétés (RCS), in order to keep and provide a widely open access to adequate, accurate and timely information on beneficial owners of companies and other legal entities, consistently with the new 4th Directive on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing provisions**
-
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/81)]_
 ----
 
 [^1]: http://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX:52013PC0045
