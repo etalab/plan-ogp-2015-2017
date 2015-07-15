@@ -24,10 +24,12 @@ All of the minutes of the committee for the strategic monitoring of trade policy
 ### Roadmap
 
 - **Increase transparency on the content of international trade commercial negotiations**
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/136)]_
     - The elements relating to each new international trade negotiation cycle will be made available to the public continuously on the dedicated page on diplomatie.gouv.fr and in open data format on data.gouv.fr
     - Additional elements, such as mandates, may be added according to the declassification decisions taken by the European Union
     - Elements from past international trade negotiations made available to the public will be added to this corpus, such as negotiating mandates from the European Commission, official position documents and the text of ratified trade treaties
 - **Ensure as much  publicity as possible on evaluations and monitoring of international agreements**
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/139)]_
     - Studies and elements used for the analysis and evaluation of trade agreements ex post and ex ante, whether transverse or sectorial, may also be added
     - The Parliament may be informed through the presentation of an annual report on international trade negotiations
     - All of the minutes of the committee for the strategic monitoring of trade policy subjects will be made available to the public, together with the annual reports on trade negotiations
