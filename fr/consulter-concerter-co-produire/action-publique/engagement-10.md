@@ -54,7 +54,8 @@ au défi, la start-up intégrera un innovateur dans son équipe. En fonction du 
 financement participatif pourra compléter le financement public.
 
 #### Feuille de route
-
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/140)]_
+      
 - Lancer l’appel à projets « Fix-it des quartiers » fin 2015
 - Mettre à disposition une première version de la solution numérique de signalement d’incidents en septembre 2015 (objectif : 100 communes concernées avant la fin de l’année)
 - Lancer mi-2016 les solutions pouvant être généralisées
