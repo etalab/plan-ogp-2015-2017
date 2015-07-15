@@ -28,10 +28,14 @@ Following these principles, the financial jurisdictions took the initiative, fro
   The Cour des comptes undertakes to regularly provide the following data sets:
 
   - The budgetary data forming the basis of current or past analyses of State’s budget execution
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/143)]_
   - When possible, the data forming the basis of current or past themed investigations of the Cour
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/144)]_
   - The data forming the basis of current or past work on local finances
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/145)]_
   - Certain data on activity of the financial jurisdictions, notably the update to the list of publications from the Court and the resources of the financial jurisdictions
-
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/146)]_
+  
   The Cour des comptes will also study, together with the Prime Minister’s Office, the establishment of a data portal "data.ccomptes.fr", listed on the government portal (data.gouv.fr), in order to systematize a strategy of data management and the opening of public information.
 
 - **Further involve citizens in the work of the Cour des comptes**
@@ -39,4 +43,6 @@ Following these principles, the financial jurisdictions took the initiative, fro
   This involvement could take several forms:
 
   - Opinion surveys in order to better identify the expectations of citizens in relation to the work of the Cour des comptes, both in form and content
+   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/147)]_
   - A contributory platform could be introduced to enable feedbacks from citizens' on their concerns
+   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/148)]_
