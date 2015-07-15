@@ -37,12 +37,17 @@ OpenDataFrance association, [online contribution #2925](http://contribuez.cnnume
 ### Roadmap
 
 - **Standardize the format of data of public call for tenders**
+_[[follow-up](https://git.framasoft.org/etalab/suivi/issues/120)]_
 - **Release in open data the Official Bulletin of Public Contract Declarations (BOAMP) or those from other publication entities, and publish buyers profiles**
+_[[follow-up](https://git.framasoft.org/etalab/suivi/issues/121)]_
 - **Encourage increased publicity of awarded public tenders**
     - Make this publication mandatory for tenders above regulation thresholds. Encourage and support buyers to do it also for tenders below regulation threshold and to make buyers profiles accessible.
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/122)]_ 
     - Promote open data, particularly by standardizing advertising forms and presenting them in machine readable formats. Data to be opened in priority will be selected after a study phase that will not exceed one year
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/123)]_ 
 - **Include open data clauses in contracts awarded by public authorities**
     - Encourage service providers to open data produced during the execution of a contract by defining standard open data clauses specifying the requirements and that public authorities could include in contracts.
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/124)]_ 
 
 ### See Also:
 
