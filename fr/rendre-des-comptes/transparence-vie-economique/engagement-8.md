@@ -45,7 +45,9 @@ dans le code de commerce le 30 décembre 2014.
 
 ### Feuille de route
 
-- **Adhérer à l’Initiative pour la Transparence dans les Industries extractives (ITIE) et travailler sur l’accessibilité des données ouvertes dans le cadre de l’ITIE et des déclarations des entreprises au titre du chapitre 10 de la directive comptable européenne**
+- **Adhérer à l’Initiative pour la Transparence dans les Industries extractives (ITIE) et travailler sur l’accessibilité des données ouvertes dans le cadre de l’ITIE 
+_[[suivi](https://git.framasoft.org/etalab/suivi/issues/81)]_
+et des déclarations des entreprises au titre du chapitre 10 de la directive comptable européenne**
     - Été 2015 : désignation du haut représentant français pour l’ITIE et mise en place d’une équipe projet dotée des moyens humains et financiers nécessaires pour préparer la candidature de la France à l’ITIE
     - Septembre 2015 : constitution d’un comité national tripartite pour l’ITIE
     - Mars 2016 : première déclaration des entreprises au titre du chapitre 10 de la directive comptable
