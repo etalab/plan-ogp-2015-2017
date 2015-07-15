@@ -26,12 +26,18 @@ Lastly, since 2014 the financial jurisdictions[^1] initiated the opening of the 
 
 - **Allow citizens to better grasp the financial details of local and regional authorities**
     - Publish in open data the general operating grant (Dotation globale de fonctionnement) which is the State's financial contribution to local and regional authorities
+    _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/111)]_
     - Publish in open data, on data.gouv.fr, all of account balances of local authorities and groups with specific taxation, from 2013 financial year onward
+    _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/112)]_
     - Make it compulsory for local executives and chairmen of EPCI  to present a report to deliberative assembly (municipal, departmental or regional council) on the follow-up given to observations made by the regional chamber of the Cour des comptes
+    _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/113)]_
 - **Regularly provide the financial data of the financial jurisdictions such as**:
     - The data used for the work on local finance
+    _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/114)]_
     - Some data on financial jurisdictions activities, notably the updated list of publications from the Cour des comptes and the resources of the financial jurisdictions
+    _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/115)]_
 - **Strengthen open data in local and regional authorities: enshrine in law the requirement for local communities of more than 3500 inhabitants to publish their public information in open data format**
+_[[follow-up](https://git.framasoft.org/etalab/suivi/issues/116)]_
 
 #### See Also:
 
@@ -57,7 +63,9 @@ To render information and local decisions more accessible, online publication wi
 #### Roadmap
 
 - **Publish the list of administrative measures, deliberations, and local municipal by-laws in electronic format alongside a paper version, and provide permanent access free of charge.**
+_[[follow-up](https://git.framasoft.org/etalab/suivi/issues/117)]_
 - **Post the minutes for municipal council meetings within one week after the municipal council meeting on the local government website (where it exists) for at least six years** (as opposed to a one-off posting made within eight days for an indeterminate minimum period).
+_[[follow-up](https://git.framasoft.org/etalab/suivi/issues/118)]_
 
 ### Publish information relative to building permits in open data
 
@@ -73,6 +81,7 @@ Certain aggregated data have already been provided by the Ministry of Ecology, S
 #### Roadmap
 
 - **Start a working group with the stakeholders concerned to gradually arrange open data access to building permits data by 2017**
+_[[follow-up](https://git.framasoft.org/etalab/suivi/issues/119)]_  
     - This collaboration could bring together Chief Data Officer, Etalab, the General Commissariat for Sustainable Development, and local authorities (via Open Data France, for example)
 
 ----
