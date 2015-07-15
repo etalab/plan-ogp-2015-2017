@@ -31,6 +31,7 @@ Funded as part of the “Programme d’Investissements d’avenir[^2]” (Invest
 - Launch the "Fix My Neighborhood" call for projects in June 2015
 - Make a first version of the digital solution for reporting incidents available in September 2015 (objective: 100 municipalities involved before the end of the year)
 - In mid-2016, launch the solutions that may be generalized
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/140)]_
 
 ### _Digital Fix-it_
 
@@ -45,6 +46,7 @@ In the digital realm, contributive and crowd sourced efforts to identify problem
 
 - An experimental reporting platform will be put in place during 2016
 - The platform will be open to the public by the end of 2016
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/142)]_
 
 ----
 
