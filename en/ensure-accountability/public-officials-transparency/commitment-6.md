@@ -17,7 +17,9 @@ Declarations can be sent to the HATVP in paper format or, since the decree of Ma
 
 - **Publish public data contained in declarations of assets and interests made using an online reporting tool in an open, reusable format** (declarations of assets made by members of the Government and declarations of interests of members of the Government, members of Parliament, French representatives in the European Parliament and main local elected officials)
     - With the development of the online reporting tool (ADEL), it will be possible to circulate information in a reusable format within the 2016 year
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/149)]_
     - Efforts by HATVP to convey the information about the online reporting tool to persons bound by reporting obligations will be stepped up. The aim is to ensure a high level of remote reporting and, as a result, a large volume of open-data information
+     _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/150)]_
 
 ----
 
