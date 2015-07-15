@@ -52,6 +52,7 @@ registre français centralisé pour les entreprises (le Registre du Commerce et 
 RCS), de manière à assurer et à fournir un accès largement ouvert à des informations
 utiles, exactes et à jour sur les bénéficiaires effectifs des sociétés et autres entités
 juridiques**
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/127)]_
 
 ----
 
