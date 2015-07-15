@@ -65,16 +65,23 @@ statistiques de l’OCDE.
 - **Poursuivre la mise à disposition des données sur l’aide publique au développement grâce à l’extension du périmètre des zones et des types de projets couverts**
     - _2015_ :
         - Ouverture en juin par l’AFD des données sur les financements accordés au secteur souverain dans la zone Afrique subsaharienne et Méditerranée
+          _[[suivi](https://git.framasoft.org/etalab/suivi/issues/125)]_
         - Ouverture progressive au deuxième semestre par le MAEDI des données de la zone Afrique (pays à déterminer)
+         _[[suivi](https://git.framasoft.org/etalab/suivi/issues/126)]_
         - Publication des données relatives aux projets du Fonds de solidarité prioritaire (FSP), à l’aide humanitaire, à l’aide alimentaire, aux projets de co-développement, aux actions de la Délégation pour l’action extérieure des collectivités territoriales (DAECT) et aux projets FSP, sur le portail [data.gouv.fr](http://www.data.gouv.fr/)
+         _[[suivi](https://git.framasoft.org/etalab/suivi/issues/128)]_
     - _2016_ :
         - Ouverture progressive par le MAEDI des données des zones Asie-Pacifique et Amérique latine et Caraïbes (pays à déterminer)
+        _[[suivi](https://git.framasoft.org/etalab/suivi/issues/129)]_
         - Ouverture fin juin par l’AFD des données des zones Asie-Pacifique et Amérique latine et Caraïbes (secteur souverain pour l’AFD)
+        _[[suivi](https://git.framasoft.org/etalab/suivi/issues/130)]_
         - Publication par l’AFD et le MAEDI, en données ouvertes au format IITA, des projets portés par les ONG dès le premier euro dans les pays déjà concernés par la publication des données
+        _[[suivi](https://git.framasoft.org/etalab/suivi/issues/131)]_
     - _2017_ :
         - Abaissement par l’AFD et le MAEDI du seuil de publication de 100 000 € à 50 000€ pour tous les projets dans les pays déjà concernés (sauf projets ONG, publiés dès le
 premier euro)
-
+        _[[suivi](https://git.framasoft.org/etalab/suivi/issues/132)]_
+        
 Toutes les données ouvertes sont à entendre comme des mises à disposition, à fréquence
 régulière, au format IITA, et pour les projets dont le montant est supérieur ou égal au seuil de
 100 000€.
