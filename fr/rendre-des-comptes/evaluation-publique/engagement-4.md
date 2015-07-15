@@ -67,9 +67,13 @@ décideurs et gestionnaires publics, et aux citoyens.
 
 - **Encourager l’ensemble des acteurs de l’évaluation à mettre à disposition leurs travaux dans l’observatoire de l’évaluation des politiques publiques pour améliorer son exhaustivité, faciliter les recherches dans l’observatoire (accès par mot clé, etc.)**
     - Rendre accessible à tous l’Observatoire de l’évaluation des politiques publiques, base documentaire de référencement des évaluations de politiques publiques
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/135)]_
     - Systématiser la publication des évaluations de politiques publiques lancées dans le cadre de la modernisation de l’action publique (hors empêchement juridique)
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/137)]_
 - **Systématiser et enrichir la participation citoyenne dans les évaluations coordonnées par le SGMAP, par exemple à travers des enquêtes d’opinion, des ateliers de travail, des jurys citoyens, et d’autres formes de participation**
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/138)]_
 - **Améliorer la traçabilité de l’impact sur l’action publique des évaluations de politiques publiques lancées dans le cadre de la modernisation de l’action publique**
+     _[[suivi](https://git.framasoft.org/etalab/suivi/issues/141)]_
 
 ----
 
