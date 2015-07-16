@@ -2,9 +2,9 @@
 
 ## Diffuser la culture de l'ouverture, des données et du numérique
 
-**Institutions porteuses** :
-- ministère de la Décentralisation et de la Fonction publique ;
-- secrétariat d'État chargé de la Réforme de l'État et de la Simplification auprès du Premier ministre ;
+**Institutions porteuses** :
+- ministère de la Décentralisation et de la Fonction publique ;
+- secrétariat d'État chargé de la Réforme de l'État et de la Simplification auprès du Premier ministre ;
 - École nationale d’administration
 
 ### Enjeux
@@ -13,7 +13,7 @@ Les agents publics doivent être les acteurs des changements permis par la révo
 
 ### Contexte
 
-**Les actions de sensibilisation et de formation des agents publics** déjà mises en place par la mission Etalab (Vademecum sur l’ouverture et le partage des données publiques [^1], événements mensuels d’échange sur la donnée « Bonjour Data » [^2], open data camps, interventions auprès des écoles de service public…), par le secrétariat général pour la modernisation de l’action publique (SGMAP), par les ministères ainsi que par les collectivités territoriales doivent être amplifiées.
+**Les actions de sensibilisation et de formation des agents publics** déjà mises en place par la mission Etalab (Vademecum sur l’ouverture et le partage des données publiques [^1], événements mensuels d’échange sur la donnée « Bonjour Data » [^2], open data camps, interventions auprès des écoles de service public…), par le secrétariat général pour la modernisation de l’action publique (SGMAP), par les ministères ainsi que par les collectivités territoriales doivent être amplifiées.
 
 **Les écoles de la fonction publique** s’engagent également à favoriser la diffusion de la culture de l’ouverture, de la donnée et de l’innovation en incorporant davantage de programmes de formations sur le numérique et la donnée.
 

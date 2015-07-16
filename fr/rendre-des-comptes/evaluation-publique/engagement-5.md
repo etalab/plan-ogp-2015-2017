@@ -2,7 +2,7 @@
 
 ## Impliquer davantage les citoyens dans les travaux menés par la Cour des comptes
 
-**Institution porteuse** :
+**Institution porteuse** :
 - Cour des comptes
 
 ### Enjeux
@@ -26,7 +26,7 @@ budgétaire et financière, Conseil des prélèvements obligatoires, etc.) rende
 décisions juridictionnelles, des rapports et des avis, qui sont mis en ligne sur son site internet.
 
 Les articles 14 et 15 de la Déclaration des Droits de l’Homme et du Citoyen, qui sont au
-fondement des missions de la Cour des comptes, sont demeurés d’une grande modernité :
+fondement des missions de la Cour des comptes, sont demeurés d’une grande modernité :
 dans une démocratie, le citoyen a le droit de constater, par lui-même ou par ses
 représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre
 l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. Il a le droit de
@@ -45,7 +45,7 @@ notamment le respect des secrets protégés par la loi.
 
 - **Diffuser en open data certaines données collectées lors de contrôles et d’évaluations, ainsi que des données propres aux juridictions financières**
 
-  La Cour des comptes s’engage à mettre à disposition régulièrement les jeux de données suivants :
+  La Cour des comptes s’engage à mettre à disposition régulièrement les jeux de données suivants :
 - Les données budgétaires fondant ou ayant fondé l’analyse de l’exécution du budget de l’État 
 _[[suivi](https://git.framasoft.org/etalab/suivi/issues/143)]_
 - À chaque fois que cela sera possible, les données fondant ou ayant fondé les enquêtes thématiques de la Cour
@@ -55,11 +55,11 @@ _[[suivi](https://git.framasoft.org/etalab/suivi/issues/145)]_
 - Certaines données d’activité des juridictions financières, notamment la mise à jour de la liste des publications de la Cour et des moyens des juridictions financières
 _[[suivi](https://git.framasoft.org/etalab/suivi/issues/146)]_ 
       
-  La Cour des comptes étudiera également, en lien avec les services du Premier ministre, la mise en place d’un portail de données « data.ccomptes.fr », répertorié sur le portail du gouvernement (data.gouv.fr), afin de systématiser une stratégie de gestion des données et la démarche d’ouverture des informations publiques.
+  La Cour des comptes étudiera également, en lien avec les services du Premier ministre, la mise en place d’un portail de données « data.ccomptes.fr », répertorié sur le portail du gouvernement (data.gouv.fr), afin de systématiser une stratégie de gestion des données et la démarche d’ouverture des informations publiques.
 
 - **Intéresser davantage le citoyen aux travaux de la Cour des comptes**
 
-  Cette implication pourrait prendre plusieurs formes :
+  Cette implication pourrait prendre plusieurs formes :
 
 - une enquête d’opinion afin de mieux identifier les attentes du citoyen vis-à-vis des travaux de la Cour, sur le fond comme sur la forme
  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/147)]_ 

@@ -2,7 +2,7 @@
 
 ## Renforcer la transparence des paiements et revenus issus des industries extractives
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Ministère des Affaires étrangères et du Développement international
 - Ministère de l’Écologie, du Développement durable et de l’Énergie
 - Ministère des Finances et des Comptes publics
@@ -28,11 +28,11 @@ qui souhaitent promouvoir, dans les pays riches en ressources naturelles, une pl
 transparence sur les revenus issus de l’exploitation des sous-sols. La France apporte un appui
 politique, technique et financier à cette initiative depuis 2005. Les principales entreprises
 minières, pétrolières et gazières, comme AREVA, TOTAL, ERAMET et ENGIE soutiennent
-officiellement l’ITIE et la coalition internationale « Publiez ce que vous payez », mouvement
+officiellement l’ITIE et la coalition internationale « Publiez ce que vous payez », mouvement
 de la société civile qui est à l’origine de l’ITIE, dispose d’une plateforme française
 actuellement coordonnée par Oxfam France. Le Président de la République a indiqué lors du
 sommet du G8 de Lough Erne en juin 2013 que la France entendait appliquer la norme ITIE sur
-son territoire et devenir un « pays candidat » de l’initiative.
+son territoire et devenir un « pays candidat » de l’initiative.
 
 En parallèle, la France a plaidé pour **l’adoption au niveau européen d’une norme
 contraignante de transparence** (Chapitre 10 de la directive 2013/34/UE du Parlement
@@ -49,11 +49,11 @@ dans le code de commerce le 30 décembre 2014.
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/133)]_
   et des déclarations des entreprises au titre du chapitre 10 de la directive comptable européenne**
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/134)]_
-    - Été 2015 : désignation du haut représentant français pour l’ITIE et mise en place d’une équipe projet dotée des moyens humains et financiers nécessaires pour préparer la candidature de la France à l’ITIE
-    - Septembre 2015 : constitution d’un comité national tripartite pour l’ITIE
-    - Mars 2016 : première déclaration des entreprises au titre du chapitre 10 de la directive comptable
-    - Avant décembre 2016 : présentation de la candidature de la France à l’ITIE
-    - 1er semestre 2017 : la France devient « pays candidat » de l’ITIE
+    - Été 2015 : désignation du haut représentant français pour l’ITIE et mise en place d’une équipe projet dotée des moyens humains et financiers nécessaires pour préparer la candidature de la France à l’ITIE
+    - Septembre 2015 : constitution d’un comité national tripartite pour l’ITIE
+    - Mars 2016 : première déclaration des entreprises au titre du chapitre 10 de la directive comptable
+    - Avant décembre 2016 : présentation de la candidature de la France à l’ITIE
+    - 1er semestre 2017 : la France devient « pays candidat » de l’ITIE
 
 ----
 

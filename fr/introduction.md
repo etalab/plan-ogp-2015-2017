@@ -8,7 +8,7 @@ Cette initiative complète le travail engagé par le gouvernement français sur 
 l’État et la simplification. En effet, rénover la relation entre l’État et les citoyens, entre l’État et
 les entreprises, utiliser les technologies pour plus d’efficacité et de transparence et donner un
 nouveau souffle à notre démocratie est au cœur de notre projet. Cette réforme a des
-objectifs clairs et ambitieux : confiance renouvelée dans l’action publique avec davantage
+objectifs clairs et ambitieux : confiance renouvelée dans l’action publique avec davantage
 de transparence, dialogue dynamisé grâce à une démarche collaborative qui donne à la
 démocratie les moyens d’une plus grande proximité et d’un service de meilleure qualité pour
 les citoyens, les entreprises et les forces vives.
@@ -27,11 +27,11 @@ partenaires sur nos expériences respectives. Le Partenariat pour le gouvernemen
 un catalyseur qui nous permet de faire plus et plus vite sur ces sujets qui fondent notre pacte
 républicain.
 
-Ce « plan national pour une action publique transparente et collaborative » est, pour nous,
+Ce « plan national pour une action publique transparente et collaborative » est, pour nous,
 une étape importante.
 
 Il est le fruit d’une longue concertation avec la société civile, au sein du gouvernement et de
-l’administration, ainsi qu’avec les autorités indépendantes. Il repose sur quatre grands axes :
+l’administration, ainsi qu’avec les autorités indépendantes. Il repose sur quatre grands axes :
 
 **Rendre des comptes** pour faire progresser la transparence, restaurer la confiance et
 améliorer la qualité des politiques publiques. Le devoir de transparence s’impose aux

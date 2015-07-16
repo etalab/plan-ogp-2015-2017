@@ -2,8 +2,8 @@
 
 ## Poursuivre l’ouverture des ressources juridiques et la collaboration avec la société civile autour de l’élaboration de la loi
 
-**Institutions porteuses** :
-- Premier ministre ; ministère de l'Économie, de l'Industrie et du Numérique
+**Institutions porteuses** :
+- Premier ministre ; ministère de l'Économie, de l'Industrie et du Numérique
 - Secrétariat d’État chargé de la Réforme de l’État et de la Simplification auprès du Premier ministre
 
 ### Enjeux
@@ -22,12 +22,11 @@ Enfin, la **consultation des citoyens sur les projets de loi ou en amont de leur
 
 #### Verbatim issu de la [consultation en ligne « open data »](http://contribuez.cnnumerique.fr/debat/open-gov-comment-faire-progresser-la-transparence-de-l%E2%80%99action-publique-et-la-participation)
 
-_« Mener une réflexion sur une ouverture des outils numériques de gestion de la séance pourrait permettre de disposer du texte des articles votés à toutes les étapes de la procédure. Une homogénéisation de la publication avec les services du Sénat ainsi qu'avec le SGG et Légifrance, par exemple en envisageant une ouverture des projets du type SOLON, ouvrirait des perspectives très intéressantes.»_
+> « Mener une réflexion sur une ouverture des outils numériques de gestion de la séance pourrait permettre de disposer du texte des articles votés à toutes les étapes de la procédure. Une homogénéisation de la publication avec les services du Sénat ainsi qu'avec le SGG et Légifrance, par exemple en envisageant une ouverture des projets du type SOLON, ouvrirait des perspectives très intéressantes. »
 
 _Regards Citoyens, [contribution en ligne #2848](http://contribuez.cnnumerique.fr/debat/95/avis/2848)_
 
-_« Il existe de nombreux systèmes de gestion de version de documents permettant justement de suivre l'évolution de documents textes, comme les lois. Le plus connu et largement utilisé étant le système "Git". L'utilisation d'un tel système pour l'enregistrement des lois, et sa diffusion,  permettrait a posteriori de remonter à l'origine de chaque alinéa (son auteur). Chaque amendement pourrait ainsi être représenté par un "commit" (un changement), dont l'auteur serait le député. On pourrait ajouter à chaque amendement le résultat des votes, en métadonnées. Les citoyens pourraient aussi participer en soumettant les "pull-request" (changements à valider) qui pourraient être examinés par l'assemblée.
-Ce dépôt devrait présenter une interface technique standard (Git), ainsi qu'un site web permettant aux citoyens non-techniciens de participer (comme https://github.com ou https://www.penflip.com).»_
+> « Il existe de nombreux systèmes de gestion de version de documents permettant justement de suivre l'évolution de documents textes, comme les lois. Le plus connu et largement utilisé étant le système "Git". L'utilisation d'un tel système pour l'enregistrement des lois, et sa diffusion,  permettrait a posteriori de remonter à l'origine de chaque alinéa (son auteur). Chaque amendement pourrait ainsi être représenté par un "commit" (un changement), dont l'auteur serait le député. On pourrait ajouter à chaque amendement le résultat des votes, en métadonnées. Les citoyens pourraient aussi participer en soumettant les "pull-request" (changements à valider) qui pourraient être examinés par l'assemblée. Ce dépôt devrait présenter une interface technique standard (Git), ainsi qu'un site web permettant aux citoyens non-techniciens de participer (comme https://github.com ou https://www.penflip.com). »
 
 _[Contribution en ligne #1221](http://contribuez.cnnumerique.fr/debat/95/avis/1221)_
 
@@ -40,9 +39,9 @@ _[Contribution en ligne #1221](http://contribuez.cnnumerique.fr/debat/95/avis/12
 - **Poursuivre la démarche participative engagée avec la société civile sur le projet de loi numérique en mettant à consultation en ligne l’avant-projet de loi** afin que les citoyens puissent le commenter et proposer des amendements
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/154)]_
 
-#### Et aussi :
+#### Et aussi :
 
-L’ouverture de ces données et de ces outils permettent des initiatives citoyennes innovantes telles que  « [La Fabrique de la Loi](http://www.lafabriquedelaloi.fr/) » qui permet de suivre toute la procédure parlementaire des textes de loi, ou le développement de logiciels ouverts, tel que « [le code civil français sous git](https://github.com/steeve/france.code-civil) » ou [Archéo Lex](https://archeo-lex.fr/), qui mettent à disposition les versions consolidées de chaque texte législatif (loi, code, constitution, etc.) dans un seul fichier, retraçant l’historique complet des modifications de la législation.
+L’ouverture de ces données et de ces outils permettent des initiatives citoyennes innovantes telles que  « [La Fabrique de la Loi](http://www.lafabriquedelaloi.fr/) » qui permet de suivre toute la procédure parlementaire des textes de loi, ou le développement de logiciels ouverts, tel que « [le code civil français sous git](https://github.com/steeve/france.code-civil) » ou [Archéo Lex](https://archeo-lex.fr/), qui mettent à disposition les versions consolidées de chaque texte législatif (loi, code, constitution, etc.) dans un seul fichier, retraçant l’historique complet des modifications de la législation.
 
 
 

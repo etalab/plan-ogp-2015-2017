@@ -8,7 +8,7 @@ Ce plan témoigne de l’engagement de la puissance publique, de ses institution
 
 Cette politique est fondée sur la transparence de l’action publique, sur son ouverture à de nouvelles formes de concertation et de coopération avec les citoyens, ainsi que sur la libération de la capacité d’action d’une société civile, qui revendique une citoyenneté émancipée et responsable et de nouveaux pouvoirs d’agir.
 
-Dans cette dynamique, trois forces se conjuguent :
+Dans cette dynamique, trois forces se conjuguent :
 - En renforçant la transparence et le contrôle démocratique, nous renforcerons l’intégrité et l’efficacité de l’action publique, pour restaurer la confiance envers les institutions, et de les rendre plus justes et plus efficaces ;
 - En nous ouvrant au dialogue et à l’intelligence collective, nous souhaitons mobiliser efficacement la contribution des citoyens, attirer les compétences extérieures et renforcer sa dimension partenariale de l’action publique ;
 - En ouvrant les données et les modèles, en partageant les ressources, nous voulons dynamiser les forces économiques et sociales.

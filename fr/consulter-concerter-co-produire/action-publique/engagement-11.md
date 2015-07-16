@@ -2,7 +2,7 @@
 
 ## Coproduire avec la société civile les registres-clés de données essentielles à la société et à l’économie
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Secrétariat d’État chargé de la Réforme de l’État et de la Simplification auprès du Premier ministre
 - Secrétariat d'État chargé du Numérique, auprès du ministre de l'Économie, de l'Industrie et du Numérique
 
@@ -23,7 +23,7 @@ Cet effort se poursuit avec le développement, toujours sous licence ODBL, de la
 - **Multiplier les coopérations entre acteurs publics et société civile pour la constitution d’infrastructures de données essentielles et de registres-clé de données**
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/151)]_
 
-#### Et aussi :
+#### Et aussi :
 
 **La France a également innové en stimulant l’innovation par la circulation de données pertinentes** : En octobre 2014, **la Ioi n° 2014-1104 du 1er octobre 2014 relative aux taxis et aux voitures de transport avec chauffeur[^2] a institué (art. 1er) la création d’un registre national** recensant les informations relatives à l'identification, à la disponibilité et à la géolocalisation des taxis. Opéré par Etalab en lien avec le ministère de l’Intérieur, il a pour finalité d'améliorer l'accès aux taxis par leurs clients en favorisant le développement de services innovants. Il repose sur une API (Application Programming Interface) permettant aux opérateurs de géolocalisation de taxi et aux moteurs de recherche mobiles d'enrichir leur offre.
 

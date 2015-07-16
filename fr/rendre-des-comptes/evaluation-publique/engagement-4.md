@@ -2,7 +2,7 @@
 
 ##  Ouvrir l’accès aux évaluations de politiques publiques et à leurs conclusions
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Secrétariat d'État chargé de la Réforme de l'État et de la Simplification auprès du Premier ministre
 
 ### Enjeux
@@ -21,10 +21,10 @@ politiques publiques comme outil de modernisation de l’action publique.
 
 Evaluer une politique publique, c’est juger de sa valeur au regard d’un ensemble de critères,
 en vue de l’améliorer et d’éclairer la prise de décision. Selon le décret du [18 novembre 1998](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005626964&dateTexte=20110516),
-il s’agit « d'apprécier, dans un cadre interministériel, l'efficacité de cette politique en
-comparant ses résultats aux objectifs assignés et aux moyens mis en œuvre ».
+il s’agit « d'apprécier, dans un cadre interministériel, l'efficacité de cette politique en
+comparant ses résultats aux objectifs assignés et aux moyens mis en œuvre ».
 
-Aujourd’hui, le paysage des politiques publiques est marqué par de nombreux acteurs :
+Aujourd’hui, le paysage des politiques publiques est marqué par de nombreux acteurs :
 Parlement, ministères, Cour des comptes, Conseil économique, social et environnemental,
 Conseils économique, social et environnemental des régions, collectivités territoriales,
 agences d’État, etc. La diversité des acteurs de l’évaluation et des supports de publication
@@ -43,17 +43,17 @@ de politique publique (affaires sociales, éducation nationale, justice, écolog
 etc.) En juin 2015, 43 rapports ont été publiés sur le site internet du secrétariat général pour la
 modernisation de l’action publique (SGMAP)[^1] (certaines évaluations sont encore en cours).
 Par ailleurs, un espace dédié présente, sous forme d’une jauge, l’état d’avancement de
-chaque évaluation (par grands jalons : lancement, diagnostic, scénarios de transformation,
+chaque évaluation (par grands jalons : lancement, diagnostic, scénarios de transformation,
 rapport, mise en œuvre), ainsi que la documentation associée. La méthodologie promue par
 le SGMAP préconise l’association systématique des usagers bénéficiaires de la politique
 évaluée à travers des consultations, des sondages, des enquêtes ad hoc, des ateliers de
 travail, ainsi que des parties prenantes qui sont invitées à suivre les travaux d’évaluation dans
-le cadre du « comité d’évaluation ».
+le cadre du « comité d’évaluation ».
 
 Le SGMAP a également apporté son soutien et contribué au financement du projet porté
 par la Société française de l’évaluation (SFE), qui a développé depuis 2012 un Observatoire
 de l'évaluation des politiques publiques. La SFE rassemble 300 adhérents (230 adhérents
-individuels et 70 adhérents institutionnels : services de l'État, collectivités territoriales,
+individuels et 70 adhérents institutionnels : services de l'État, collectivités territoriales,
 établissements publics, associations et cabinets de conseil). Cet observatoire a d’ores et déjà
 permis de recenser plus de 1 600 références d'évaluations réalisées depuis 2000, la moitié
 étant assorties des rapports correspondants (synthèses).

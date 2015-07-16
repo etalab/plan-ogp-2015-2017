@@ -22,12 +22,11 @@ Lastly, the **consultation of citizens on government bills or before their prepa
 
 #### Verbatim from the ["open data" online consultation](http://contribuez.cnnumerique.fr/debat/open-gov-comment-faire-progresser-la-transparence-de-l%E2%80%99action-publique-et-la-participation)
 
-_"Carrying out a study on an opening of digital management tools for the meeting could make available the text of the articles voted at all stages of the procedure. Standardization of publication with the services of the Senate and with the SGG and Légifrance, for example by considering opening projects of the SOLON type, would open very interesting prospects."_
+> "Carrying out a study on an opening of digital management tools for the meeting could make available the text of the articles voted at all stages of the procedure. Standardization of publication with the services of the Senate and with the SGG and Légifrance, for example by considering opening projects of the SOLON type, would open very interesting prospects."
 
 _"Regards Citoyens", [online contribution #2848](http://contribuez.cnnumerique.fr/debat/95/avis/2848)_
 
-_"Numerous systems for document version management are precisely intended to monitor changes to text documents, such as Acts. The most widely known and used is the "Git" system. The use of such a system for registration of Acts, and its dissemination, would allow the subsequent tracking of the origin of each subparagraph (its author). Each amendment could thus be represented as a "commit" (a change), proposed by Member of Parliament. The results of votes may be added, as metadata, to each amendment. Citizens could also participate by submitting "pull requests" (changes to be validated) which could be examined by the Parliament.
-This repository should present a standard technical interface (Git), and a website allowing non-technician citizens to participate (such as https://github.com/ or https://www.penflip.com/)."_
+> "Numerous systems for document version management are precisely intended to monitor changes to text documents, such as Acts. The most widely known and used is the "Git" system. The use of such a system for registration of Acts, and its dissemination, would allow the subsequent tracking of the origin of each subparagraph (its author). Each amendment could thus be represented as a "commit" (a change), proposed by Member of Parliament. The results of votes may be added, as metadata, to each amendment. Citizens could also participate by submitting "pull requests" (changes to be validated) which could be examined by the Parliament. This repository should present a standard technical interface (Git), and a website allowing non-technician citizens to participate (such as https://github.com/ or https://www.penflip.com/)."
 
 _[Online contribution #1221](http://contribuez.cnnumerique.fr/debat/95/avis/1221)_
 

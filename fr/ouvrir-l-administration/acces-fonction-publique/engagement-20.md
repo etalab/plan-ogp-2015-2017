@@ -2,7 +2,7 @@
 
 ## Diversifier le recrutement au sein des institutions publiques
 
-**Institution porteuse** :
+**Institution porteuse** :
 - Ministère de la Décentralisation et de la Fonction publique
 
 ### Enjeux

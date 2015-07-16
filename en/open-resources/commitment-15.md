@@ -30,11 +30,11 @@ The Chief Data Officer must therefore oversee the quality of data produced by th
 
 #### Verbatim from the ["open data" online consultation](http://contribuez.cnnumerique.fr/debat/open-gov-comment-faire-progresser-la-transparence-de-l%E2%80%99action-publique-et-la-participation)
 
-_"'Pivot data' or 'reference data' are data considered as identifying data, by the administration or according to custom, for naming or identifying products, economic entities or territories. These references are essential for linking databases of a heterogeneous nature and constructing any new service integrated with the web of data (Linked Open Data) (…) The GFII proposes, on its site, a [first list of this pivot data, by sector](http://www.gfii.fr/uploads/docs/GFII_Donneespivots.pdf)."_
+> "'Pivot data' or 'reference data' are data considered as identifying data, by the administration or according to custom, for naming or identifying products, economic entities or territories. These references are essential for linking databases of a heterogeneous nature and constructing any new service integrated with the web of data (Linked Open Data) (…) The GFII proposes, on its site, a [first list of this pivot data, by sector](http://www.gfii.fr/uploads/docs/GFII_Donneespivots.pdf)."
 
 _GFII [contribution #1905](http://contribuez.cnnumerique.fr/debat/114/avis/1905)_
 
-_"Redesign the governance of key data, particularly its funding model: the proper organization of a State is based on a set of basic data used routinely, primarily data on the organization of society, its territory, its individuals, its companies. (…) In France, there is still little connection between the key registers, which are not sufficiently reused. Most of them do not constitute a unique source of information. In the digital era, such a situation indisputably represents a significant obstacle to efforts to modernize the State."_
+> "Redesign the governance of key data, particularly its funding model: the proper organization of a State is based on a set of basic data used routinely, primarily data on the organization of society, its territory, its individuals, its companies. (…) In France, there is still little connection between the key registers, which are not sufficiently reused. Most of them do not constitute a unique source of information. In the digital era, such a situation indisputably represents a significant obstacle to efforts to modernize the State."
 
 _Associated contributions: [#2693](http://contribuez.cnnumerique.fr/debat/114/avis/2693)_
 

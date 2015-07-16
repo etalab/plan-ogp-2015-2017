@@ -2,7 +2,7 @@
 
 ## Accroître la transparence sur les négociations commerciales internationales
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Ministère de l’Écologie, du Développement durable et de l'Énergie
 - Ministère de l'Économie, de l'Industrie et du Numérique
 - Secrétariat d'État chargé du Commerce extérieur, de la Promotion du tourisme et des Français de l'étranger, auprès du Ministre des Affaires étrangères et du Développement international
@@ -12,7 +12,7 @@
 La France est engagée dans de nombreux cycles de négociations commerciales
 multilatérales à fort impact économique. **La mise en place d’un dialogue avec la société
 civile et la transparence des positions françaises facilitent la compréhension par les
-entreprises, les associations et les citoyens des enjeux associés à ces politiques** : services
+entreprises, les associations et les citoyens des enjeux associés à ces politiques** : services
 publics,  préservation  des  préférences  collectives  (normes  sanitaires,  sociales  et
 environnementales), diversité culturelle, barrières non tarifaires, accès aux marchés publics,
 mécanismes de règlement des différends…
@@ -40,7 +40,7 @@ PTIC-TTIP (Partenariat transatlantique de commerce et d'investissement - Transat
 and Investment Partnership). Ils faisaient suite à la déclassification par la Commission
 européenne, sous impulsion française, de son mandat de négociation dans la négociation
 du Partenariat transatlantique de commerce et d'investissement (PTCI-TTIP). Cette page est
-régulièrement mise à jour et permet un accès direct aux « documents de position » de la
+régulièrement mise à jour et permet un accès direct aux « documents de position » de la
 Commission européenne mis en ligne.
 
 Tous les comptes rendus du Comité de suivi stratégique des sujets de politique commerciale,
@@ -48,8 +48,8 @@ ainsi que les rapports annuels au Parlement sur les négociations commerciales, 
 à la connaissance du public. Des éléments complémentaires, comme les mandats, pourront
 être ajoutés selon les décisions de déclassification prises par l’Union européenne. Le stock des
 éléments relatifs aux négociations commerciales internationales passées sera ajouté à ce
-corpus : il s’agit principalement des mandats de négociation de la Commission européenne
-rendus publics, des « documents de position » officiels mis à la disposition du public et du
+corpus : il s’agit principalement des mandats de négociation de la Commission européenne
+rendus publics, des « documents de position » officiels mis à la disposition du public et du
 texte des traités de commerce ratifiés et publics. Des études et éléments d’analyse et
 d’évaluation des accords commerciaux _ex post_ et _ex ante_, qu’ils soient transversaux ou
 sectoriels, seront également ajoutés au corpus.

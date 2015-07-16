@@ -2,7 +2,7 @@
 
 ## Faciliter l’accès aux données relatives aux obligations de transparence des responsables publics
 
-**Institution porteuse** :
+**Institution porteuse** :
 - Haute Autorité pour la transparence de la vie publique
 
 ### Contexte
@@ -16,9 +16,9 @@ la société civile à ces contrôles.
 Les déclarations de situation patrimoniale et d’intérêts des membres du gouvernement ainsi
 que les déclarations d’intérêts des parlementaires nationaux et européens et des élus locaux
 sont rendues publiques et diffusées sur le site internet de la HATVP. Selon le Conseil
-constitutionnel, cette publication permet « à chaque citoyen de s'assurer par lui-même de la
+constitutionnel, cette publication permet « à chaque citoyen de s'assurer par lui-même de la
 mise en œuvre des garanties de probité et d'intégrité de ces élus, de prévention des conflits
-d'intérêts et de lutte contre ceux-ci » [^1]. Par ailleurs, il est également permis à un citoyen de
+d'intérêts et de lutte contre ceux-ci » [^1]. Par ailleurs, il est également permis à un citoyen de
 porter à la connaissance de la Haute Autorité des informations dont il dispose et qui ne
 figureraient pas dans les déclarations publiées.
 

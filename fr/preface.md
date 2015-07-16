@@ -1,6 +1,6 @@
 # Préface
 
-_« Le gouvernement du peuple, par le peuple et pour le peuple »_ : tel est le principe de notre
+_« Le gouvernement du peuple, par le peuple et pour le peuple »_ : tel est le principe de notre
 République. Faire vivre cet idéal est un effort qu’il appartient à chaque époque de
 renouveler, pour que la République soit toujours fidèle à sa promesse de progrès.
 
@@ -12,22 +12,22 @@ lequel tout s’accélère mais qui démultiplie aussi pour chacun les possibili
 
 Un monde ouvert et connecté appelle des institutions modernisées, des processus de
 décision simplifiés, une démocratie réinventée. C’est l’ambition du Partenariat pour le
-gouvernement ouvert. Il repose sur trois principes :
+gouvernement ouvert. Il repose sur trois principes :
 
 - l’intégrité des responsables publics, garantie par le renforcement des exigences de
-  transparence, parce que l’exemplarité n’est pas seulement une exigence morale :
-  elle est une nécessité pour restaurer la confiance des citoyens envers les institutions ;
+  transparence, parce que l’exemplarité n’est pas seulement une exigence morale :
+  elle est une nécessité pour restaurer la confiance des citoyens envers les institutions ;
 - l’ouverture de la décision publique, afin qu’elle soit mieux concertée, mieux
   débattue, plus collective et donc au bout du compte plus juste, plus efficace et
-  mieux comprise : c’est comme cela que l’on revivifiera la démocratie ;
+  mieux comprise : c’est comme cela que l’on revivifiera la démocratie ;
 - l’ouverture de l’action publique, afin qu’elle ne dépende pas seulement de l’État et
   des collectivités publiques, mais que la société civile elle-même puisse y avoir sa part
   et contribuer à la construction du bien commun.
 
 La France n’a cessé de progresser sur ce chemin, en ouvrant toujours plus sa démocratie, de
-la citoyenneté des femmes en 1945 à l’abaissement du droit de vote à 18 ans en 1974 ; en se
+la citoyenneté des femmes en 1945 à l’abaissement du droit de vote à 18 ans en 1974 ; en se
 dotant d’instances de représentation de la société civile, du Conseil économique et social
-en 1927 à la Commission nationale du débat public en 2002 ; en créant des institutions pour
+en 1927 à la Commission nationale du débat public en 2002 ; en créant des institutions pour
 garantir un fonctionnement exemplaire de la République, de la Commission d’accès aux
 documents administratifs de 1978 à la Haute Autorité pour la transparence de la vie publique
 en 2013 en passant par la Commission nationale de contrôle des comptes de campagne et

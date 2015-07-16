@@ -2,7 +2,7 @@
 
 ## Accroître la transparence de l’aide publique au développement
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Ministère des Affaires étrangères et du Développement international
 - Ministère des Finances et des Comptes publics
 - Ministère de l'Économie, de l'Industrie et du
@@ -63,21 +63,21 @@ compatibles avec le maintien de la fonction de vérification et contrôle des do
 statistiques de l’OCDE.
 
 - **Poursuivre la mise à disposition des données sur l’aide publique au développement grâce à l’extension du périmètre des zones et des types de projets couverts**
-    - _2015_ :
+    - _2015_ :
         - Ouverture en juin par l’AFD des données sur les financements accordés au secteur souverain dans la zone Afrique subsaharienne et Méditerranée
           _[[suivi](https://git.framasoft.org/etalab/suivi/issues/125)]_
         - Ouverture progressive au deuxième semestre par le MAEDI des données de la zone Afrique (pays à déterminer)
          _[[suivi](https://git.framasoft.org/etalab/suivi/issues/126)]_
         - Publication des données relatives aux projets du Fonds de solidarité prioritaire (FSP), à l’aide humanitaire, à l’aide alimentaire, aux projets de co-développement, aux actions de la Délégation pour l’action extérieure des collectivités territoriales (DAECT) et aux projets FSP, sur le portail [data.gouv.fr](http://www.data.gouv.fr/)
          _[[suivi](https://git.framasoft.org/etalab/suivi/issues/128)]_
-    - _2016_ :
+    - _2016_ :
         - Ouverture progressive par le MAEDI des données des zones Asie-Pacifique et Amérique latine et Caraïbes (pays à déterminer)
         _[[suivi](https://git.framasoft.org/etalab/suivi/issues/129)]_
         - Ouverture fin juin par l’AFD des données des zones Asie-Pacifique et Amérique latine et Caraïbes (secteur souverain pour l’AFD)
         _[[suivi](https://git.framasoft.org/etalab/suivi/issues/130)]_
         - Publication par l’AFD et le MAEDI, en données ouvertes au format IITA, des projets portés par les ONG dès le premier euro dans les pays déjà concernés par la publication des données
         _[[suivi](https://git.framasoft.org/etalab/suivi/issues/131)]_
-    - _2017_ :
+    - _2017_ :
         - Abaissement par l’AFD et le MAEDI du seuil de publication de 100 000 € à 50 000€ pour tous les projets dans les pays déjà concernés (sauf projets ONG, publiés dès le
 premier euro)
         _[[suivi](https://git.framasoft.org/etalab/suivi/issues/132)]_
@@ -88,4 +88,4 @@ régulière, au format IITA, et pour les projets dont le montant est supérieur 
 
 ----
 
-[^1]: La France a désigné 16 pays prioritaires pour sa politique de coopération et développement : http://www.gouvernement.fr/partage/316-les-16-pays-pauvres-prioritaires-de-l-aide-au-developpement-francaise
+[^1]: La France a désigné 16 pays prioritaires pour sa politique de coopération et développement : http://www.gouvernement.fr/partage/316-les-16-pays-pauvres-prioritaires-de-l-aide-au-developpement-francaise

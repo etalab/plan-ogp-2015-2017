@@ -2,7 +2,7 @@
 
 ## Permettre l’engagement de la société civile en appui de l’École
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche
 - Ministère de la Ville, de la Jeunesse et des Sports
 
@@ -12,7 +12,7 @@ L’École s’ouvre aux contributions citoyennes pour apporter leur concours à
 
 ### Contexte
 
-Le **Président de la République s’est engagé le 5 février 2015 à rendre le service civique « universel » au 1 er juin 2015**. La ministre de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche, Najat Vallaud-Belkacem et le ministre de la Ville, de la Jeunesse et des Sports, Patrick Kanner, lanceront à la rentrée un grand programme de **service civique** dédié à l’Éducation nationale. Le Président a également appelé à la mise en place d’une réserve citoyenne et confié une mission sur le sujet au Vice-président du Conseil d’État, M. Jean-Marc Sauvé, et au sélectionneur de l’équipe de France de handball, M. Claude Onesta.
+Le **Président de la République s’est engagé le 5 février 2015 à rendre le service civique « universel » au 1 er juin 2015**. La ministre de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche, Najat Vallaud-Belkacem et le ministre de la Ville, de la Jeunesse et des Sports, Patrick Kanner, lanceront à la rentrée un grand programme de **service civique** dédié à l’Éducation nationale. Le Président a également appelé à la mise en place d’une réserve citoyenne et confié une mission sur le sujet au Vice-président du Conseil d’État, M. Jean-Marc Sauvé, et au sélectionneur de l’équipe de France de handball, M. Claude Onesta.
 
 Le 22 janvier 2015, la ministre de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche, Najat Vallaud-Belkacem a inscrit la mise en place d’une **réserve citoyenne de l’éducation nationale** au titre de la mobilisation de l’école pour les valeurs de la République. Elle a été effectivement lancée le 12 mai 2015, à l’occasion de la synthèse nationale des Assises de l’école pour les valeurs de la République[^1].
 
@@ -27,14 +27,14 @@ Le 22 janvier 2015, la ministre de l’Éducation nationale, de l’Enseignement
 
   Le volontariat est effectué le plus souvent en binôme de volontaires lorsque la mission s’effectue devant élèves et vise à permettre une expérience de mixité sociale, au contact de publics et d’autres volontaires issus d’horizons diversifiés.
 
-  Les neufs grands types de mission des volontaires en Service civique sont la contribution aux activités éducatives, pédagogiques et citoyennes de l'école primaire ; l’accompagnement des projets d'éducation à la citoyenneté ; le soutien aux actions et projets dans les domaines de l'éducation artistique et culturelle et du sport ; le soutien aux actions et projets d'éducation au développement durable ; l’animation de la réserve citoyenne de l'éducation nationale ; la contribution à l'organisation du temps libre des internes en développant des activités nouvelles ; la prévention des addictions ; l’information et l’accompagnement des jeunes en situation de décrochage scolaire ou souhaitant reprendre une formation diplômante ; l’aide à l’information et à l’orientation des élèves.
+  Les neufs grands types de mission des volontaires en Service civique sont la contribution aux activités éducatives, pédagogiques et citoyennes de l'école primaire ; l’accompagnement des projets d'éducation à la citoyenneté ; le soutien aux actions et projets dans les domaines de l'éducation artistique et culturelle et du sport ; le soutien aux actions et projets d'éducation au développement durable ; l’animation de la réserve citoyenne de l'éducation nationale ; la contribution à l'organisation du temps libre des internes en développant des activités nouvelles ; la prévention des addictions ; l’information et l’accompagnement des jeunes en situation de décrochage scolaire ou souhaitant reprendre une formation diplômante ; l’aide à l’information et à l’orientation des élèves.
 
-- **Permettre aux citoyens d’accompagner l’École dans la transmission des valeurs de la République : la réserve citoyenne de l’éducation nationale**
+- **Permettre aux citoyens d’accompagner l’École dans la transmission des valeurs de la République : la réserve citoyenne de l’éducation nationale**
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/175)]_
 
   Ce nouveau dispositif, dont la circulaire du 12 mai 2015[^2] expose les grandes lignes, donne
   aux personnes majeures qui le souhaitent, l’opportunité de mettre la richesse de leur
-  expérience au service de l’école, notamment dans les champs d'expertise suivants :
+  expérience au service de l’école, notamment dans les champs d'expertise suivants :
 
   - éducation à la citoyenneté et à la laïcité,
   - éducation à l’égalité entre filles et garçons,

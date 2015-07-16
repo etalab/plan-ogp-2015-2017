@@ -2,7 +2,7 @@
 
 ## Renforcer la médiation et la capacité d’agir des citoyens en matière de justice
 
-**Institution porteuse** :
+**Institution porteuse** :
 - Ministère de la Justice
 
 ### Enjeux

@@ -2,7 +2,7 @@
 
 ## Responsabiliser et protéger les agents publics en matière de prévention des conflits d’intérêts
 
-**Institution porteuse** :
+**Institution porteuse** :
 - Ministère de la Décentralisation et de la Fonction publique
 
 ### Enjeux
@@ -15,7 +15,7 @@ Plus de trente ans après la loi du 13 juillet 1983, le **Projet de loi relative
 
 Il vise notamment à faire application aux fonctionnaires et aux membres des juridictions administratives et financières des dispositifs de prévention des conflits d'intérêt retenus dans le cadre du projet de loi sur la transparence de la vie publique. **Les fonctionnaires et les magistrats administratifs et financiers les plus exposés** seront ainsi tenus de remplir **des déclarations d'intérêts avant leur nomination. Leur situation patrimoniale sera quant à elle confiée à la Haute Autorité pour la transparence de la vie publique**.
 
-Une obligation de prévenir et de faire cesser toute situation de conflit d'intérêts est également instituée. Un mécanisme de déport est mis en place et un dispositif de « mandat de gestion » sera rendu obligatoire pour certains agents particulièrement concernés.
+Une obligation de prévenir et de faire cesser toute situation de conflit d'intérêts est également instituée. Un mécanisme de déport est mis en place et un dispositif de « mandat de gestion » sera rendu obligatoire pour certains agents particulièrement concernés.
 
 Enfin, un dispositif de protection est introduit dans le statut général des fonctionnaires afin de permettre à un agent de bonne foi de signaler l'existence d'un conflit d'intérêt sans crainte d'éventuelles pressions.
 

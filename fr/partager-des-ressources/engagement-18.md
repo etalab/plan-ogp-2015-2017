@@ -2,7 +2,7 @@
 
 ## Mieux interagir avec l’usager et améliorer les services publics grâce à l’administration numérique
 
-**Institutions porteuses** :
+**Institutions porteuses** :
 - Premier ministre
 - secrétariat d’État chargé de la Réforme de l’État et de la Simplification auprès du Premier ministre
 
@@ -14,11 +14,11 @@ L’association de parties prenantes diverses à la conception et à l’évolut
 
 ### Contexte
 
-**La France a été désignée par les Nations Unies en 2014 comme le pays le plus avancé en Europe et le 4 e dans le monde en matière d’ « e-gouvernement »**[^1].
+**La France a été désignée par les Nations Unies en 2014 comme le pays le plus avancé en Europe et le 4 e dans le monde en matière d’ « e-gouvernement »**[^1].
 
-Le [site impots.gouv.fr](http://www.impots.gouv.fr/) permet par exemple de déclarer ses impôts en ligne, très simplement, grâce à des formulaires pré-remplis ou encore de payer sa taxe d’habitation en passant par un système de « flash code ».
+Le [site impots.gouv.fr](http://www.impots.gouv.fr/) permet par exemple de déclarer ses impôts en ligne, très simplement, grâce à des formulaires pré-remplis ou encore de payer sa taxe d’habitation en passant par un système de « flash code ».
 
-Le [site service-public.fr](http://www.service-public.fr/) offre un accès centralisé à tous les services publics en proposant des entrées par évènement de vie : « je déménage », « je cherche un emploi », etc. Pour chaque catégorie de démarches (« famille », « papiers, citoyenneté », « transports » etc..), le sitedécrit les procédures à suivre et les démarches dématérialisées, et oriente vers les textes officiels.
+Le [site service-public.fr](http://www.service-public.fr/) offre un accès centralisé à tous les services publics en proposant des entrées par évènement de vie : « je déménage », « je cherche un emploi », etc. Pour chaque catégorie de démarches (« famille », « papiers, citoyenneté », « transports » etc..), le sitedécrit les procédures à suivre et les démarches dématérialisées, et oriente vers les textes officiels.
 
 Depuis 2014, le [site faire-simple.gouv.fr](http://www.faire-simple.gouv.fr) offre la possibilité aux agents et aux usagers de construire ensemble des solutions pour moderniser l’action publique. Parmi les ateliers de co-construction les plus emblématiques, celui d’un formulaire à destination des personnes en situation de handicap conçu et réalisé par des associations liées au handicap et les administrations concernées. Des consultations sont régulièrement organisées auprès des particuliers et des entreprises pour connaitre les démarches administratives à simplifier en priorité. Lors du dernier recueil d’idées, 2 000 suggestions ont été postées par les internautes et 40 mesures de simplification ont été retenues pour être mises en œuvre.
 
@@ -33,7 +33,7 @@ Au sein de sa stratégie de services publics numériques, la France a mis en pla
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/170)]_
     - Cartographier les flux entrants et sortants des sites publics afin de mesurer l’intensité de l’intégration entre les sites par thématique ou moment de vie, et détecter ainsi les sites qui ne concourent pas à l’accompagnement des parcours utilisateurs par des liens hypertextes suffisants ou pertinents
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/171)]_
-    - Extraire et rendre publiques les données statistiques du logiciel commun aux sites gouvernementaux (environ 650 sites, dont certains suivis depuis plus de 10 ans) et les analyser au moyen des méthodes de la science des données (« data sciences »)
+    - Extraire et rendre publiques les données statistiques du logiciel commun aux sites gouvernementaux (environ 650 sites, dont certains suivis depuis plus de 10 ans) et les analyser au moyen des méthodes de la science des données (« data sciences »)
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/172)]_
     - Déployer des méthodes de co-construction (openlabs, design, atelier usagers-agents...)
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/173)]_

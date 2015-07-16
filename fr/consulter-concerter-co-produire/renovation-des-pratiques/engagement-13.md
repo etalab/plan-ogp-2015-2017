@@ -2,8 +2,8 @@
 
 ## Capitaliser sur les consultations menées et rénover les dispositifs d’expression citoyenne
 
-**Institutions porteuses** :
-- Premier ministre ; ministère de l’Écologie, du Développement durable et de l'Énergie
+**Institutions porteuses** :
+- Premier ministre ; ministère de l’Écologie, du Développement durable et de l'Énergie
 - Secrétariat d’État chargé de la Réforme de l’État et de la Simplification auprès du Premier ministre
 - Commission nationale du débat public
 
@@ -25,19 +25,19 @@ Depuis novembre 2014, le site répertorie également les principaux débats, con
 
 **L’écoute des citoyens et des usagers et le recours aux dispositifs consultatifs** se sont largement développés dans les ministères. Le Ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche a par exemple mis en œuvre, pour la définition du socle commun, la réforme des programmes, et la consultation nationale sur le numérique, des mécanismes de consultation impliquant l’ensemble du corps enseignant ainsi que les acteurs concernés par les différents sujets (par exemple, sur le numérique, les collectivités locales, les parents, la société civile, les industries numériques…)
 
-Citoyens et usagers ont cependant parfois le sentiment d’être consultés trop tard, ou de ne pas être réellement entendus, entraînant pour nombre d’entre eux le refus de s’impliquer à nouveau dans d’autres consultations. À l’occasion de son rapport public « _Consulter autrement, participer effectivement_[^3] », le Conseil d’État a notamment « appelé de ses vœux une administration qualifiée de « _délibérative » parce qu’elle cherche à développer, au-delà des consultations formelles qui gagneraient à être allégées, de nouvelles procédures caractérisées par la transparence, l’ouverture, le débat public et le compte rendu_ ».
+Citoyens et usagers ont cependant parfois le sentiment d’être consultés trop tard, ou de ne pas être réellement entendus, entraînant pour nombre d’entre eux le refus de s’impliquer à nouveau dans d’autres consultations. À l’occasion de son rapport public « _Consulter autrement, participer effectivement_[^3] », le Conseil d’État a notamment « appelé de ses vœux une administration qualifiée de « _délibérative » parce qu’elle cherche à développer, au-delà des consultations formelles qui gagneraient à être allégées, de nouvelles procédures caractérisées par la transparence, l’ouverture, le débat public et le compte rendu_ ».
 
 #### Verbatim issu de la [consultation en ligne « open data »](http://contribuez.cnnumerique.fr/debat/open-gov-comment-faire-progresser-la-transparence-de-l%E2%80%99action-publique-et-la-participation)
 
-_« Pour que les citoyens s'investissent massivement dans une concertation, il faut leur donner des garanties sur la traçabilité et l'utilisation de leurs contributions »_
+> « Pour que les citoyens s'investissent massivement dans une concertation, il faut leur donner des garanties sur la traçabilité et l'utilisation de leurs contributions. »
 
 _[Contribution #2707](http://contribuez.cnnumerique.fr/debat/95/avis/2707)_
 
-_« Harmoniser les modalités des procédures de consultation : délais suffisamment longs et hors des périodes estivales, publication de l’ensemble des contributions reçues et de la liste des organisations ayant participé à la consultation, critères de choix pour le dépouillement rendus transparents »_
+> « Harmoniser les modalités des procédures de consultation : délais suffisamment longs et hors des périodes estivales, publication de l’ensemble des contributions reçues et de la liste des organisations ayant participé à la consultation, critères de choix pour le dépouillement rendus transparents. »
 
 _[Contribution #2875](http://contribuez.cnnumerique.fr/debat/95/avis/2875)_
 
-_« Créer un recours obligatoire à un jury citoyen / conférence de consensus avant chaque grand projet de réforme de l’État. Ce jury citoyen, à l’instar des jurés d’assises, serait composé de citoyens tirés au sort. Préalablement informés et formés, ils participeront à un débat sur un sujet d’intérêt général et devront faire émerger un consensus »_
+> « Créer un recours obligatoire à un jury citoyen / conférence de consensus avant chaque grand projet de réforme de l’État. Ce jury citoyen, à l’instar des jurés d’assises, serait composé de citoyens tirés au sort. Préalablement informés et formés, ils participeront à un débat sur un sujet d’intérêt général et devront faire émerger un consensus. »
 
 _Contributions associées : [#1235 ; #1208 ; #1226](http://contribuez.cnnumerique.fr/debat/95/avis/887#subavis-1235)_
 
@@ -54,7 +54,7 @@ _Contributions associées : [#1235 ; #1208 ; #1226](http://contribuez.cnnumer
         - Accompagner les administrations partenaires dans la mise en place de ces ateliers
     - Le ministère de l’Écologie, du Développement durable et de l’Énergie s’engage à proposer une « boîte à outils » pour guider les institutions dans le choix et la mise en place de dispositifs participatifs
 
-#### Et aussi :
+#### Et aussi :
 
 Plusieurs guides pratiques des dispositifs participatifs sont déjà disponibles :
 

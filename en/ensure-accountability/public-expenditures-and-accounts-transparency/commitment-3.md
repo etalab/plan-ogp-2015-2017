@@ -49,4 +49,4 @@ All of these releases should be in open data, published regularly, in the IATI f
 
 ----
 
-[^1]: France has designated 16 priority countries within for its cooperation and development policy : http://www.gouvernement.fr/partage/316-les-16-pays-pauvres-prioritaires-de-l-aide-au-developpement-francaise
+[^1]: France has designated 16 priority countries within for its cooperation and development policy : http://www.gouvernement.fr/partage/316-les-16-pays-pauvres-prioritaires-de-l-aide-au-developpement-francaise

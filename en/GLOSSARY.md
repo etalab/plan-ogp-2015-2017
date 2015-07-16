@@ -61,7 +61,7 @@ Information about a dataset such as its title and description, method of collect
 # Normative Footprint
 
 The normative footprint is the fact of attaching to a regulatory text the list of persons that were heard or that contributed to the drafting or introduction of a legal text.
-(Source: « Renouer la confiance publique » Jean-Louis Nadal, January 2015)
+(Source: "Renouer la confiance publique" Jean-Louis Nadal, January 2015)
 
 # ODbL
 
@@ -95,5 +95,5 @@ Source: http://opendatahandbook.org/glossary/en/
 
 # Referential Data
 
-Referential data (or « pivot data ») are data that are used to name or identify entities (for example products, economic entities, locations, stakeholders, legal entities...). These reference systems are necessary to link together datasets that are not configured to work together, and to build unified information architecture.
+Referential data (or "pivot data") are data that are used to name or identify entities (for example products, economic entities, locations, stakeholders, legal entities...). These reference systems are necessary to link together datasets that are not configured to work together, and to build unified information architecture.
 (Source: Conseil national du numérique)

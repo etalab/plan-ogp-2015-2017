@@ -12,8 +12,8 @@ Plus largement, de nombreux dispositifs participatifs ou d’écoute des usagers
 
 Mais ici plus encore que dans d’autres domaines, la nouvelle donne née de la large  diffusion  d’internet,  des  outils numériques et d’une culture du dialogue, de la concertation et de la coproduction a fait naître de nouvelles exigences.
 
-Le numérique offre ainsi de nouvelles possibilités de recueillir un grand nombre d'avis,  de  donner  une  visibilité  à l’ensemble des points de vue, de rendre accessible à l’ensemble des participants la mémoire des débats, de rendre leur évolution lisible, mais surtout d’enclencher des  processus  d’action  collective pertinente et efficace. Grâce notamment aux ressources partagées par la puissance publique (voir chapître [Partager des ressources numériques](../partager-des-ressources/README.md)),  le gouvernement  ouvert  crée  des dynamiques contributives inédites. Pour chacun se profile la possibilité d’un pouvoir d’influence accru dans l’élaboration des politiques publiques, autour par exemple :
+Le numérique offre ainsi de nouvelles possibilités de recueillir un grand nombre d'avis,  de  donner  une  visibilité  à l’ensemble des points de vue, de rendre accessible à l’ensemble des participants la mémoire des débats, de rendre leur évolution lisible, mais surtout d’enclencher des  processus  d’action  collective pertinente et efficace. Grâce notamment aux ressources partagées par la puissance publique (voir chapître [Partager des ressources numériques](../partager-des-ressources/README.md)),  le gouvernement  ouvert  crée  des dynamiques contributives inédites. Pour chacun se profile la possibilité d’un pouvoir d’influence accru dans l’élaboration des politiques publiques, autour par exemple :
 
-- de  l’association  du  citoyen  à l’identification  de  problèmes  à résoudre ;
-- de collaborations nouvelles pour produire  les  registres-clés  de données essentielles à l’économie ;
+- de  l’association  du  citoyen  à l’identification  de  problèmes  à résoudre ;
+- de collaborations nouvelles pour produire  les  registres-clés  de données essentielles à l’économie ;
 - d’une  facilitation  du  processus d’élaboration de la loi grâce à la production  d’outils  et d’applications innovants.

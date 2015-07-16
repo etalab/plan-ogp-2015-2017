@@ -29,15 +29,15 @@ Despite such initiatives, citizens and users sometimes feel that they have been 
 
 #### Verbatim from the ["open data" online consultation](http://contribuez.cnnumerique.fr/debat/open-gov-comment-faire-progresser-la-transparence-de-l%E2%80%99action-publique-et-la-participation)
 
-_"So that large numbers of citizens take part in a consultation, they must be given guarantees on the traceability and use of their contributions"_
+> "So that large numbers of citizens take part in a consultation, they must be given guarantees on the traceability and use of their contributions"
 
 _[Contribution #2707](http://contribuez.cnnumerique.fr/debat/95/avis/2707)_
 
-_"Harmonise the details of the consultation procedures: deadlines sufficiently long and outside summer periods, publication of all contributions received and the list of organisations that took part in the consultation, choice criteria for analysis made transparent"_
+> "Harmonise the details of the consultation procedures: deadlines sufficiently long and outside summer periods, publication of all contributions received and the list of organisations that took part in the consultation, choice criteria for analysis made transparent"
 
 _[Contribution #2875](http://contribuez.cnnumerique.fr/debat/95/avis/2875)_
 
-_"Create obligatory recourse to a citizens' jury / consensus conference before any large project to reform the State. This citizens' jury, like juries in courts, would be composed of citizens chosen at random. After being informed and trained, they will participate in a debate on a subject of general interest and a consensus should emerge"_
+> "Create obligatory recourse to a citizens' jury / consensus conference before any large project to reform the State. This citizens' jury, like juries in courts, would be composed of citizens chosen at random. After being informed and trained, they will participate in a debate on a subject of general interest and a consensus should emerge"
 
 _Associated contributions: [#1235 ; #1208 ; #1226](http://contribuez.cnnumerique.fr/debat/95/avis/887#subavis-1235)_
 
