@@ -28,9 +28,13 @@ The Interdisciplinary Research Centre (CRI) was founded in 2005 in Paris, it is 
 
 - **Drive the development of territorial public innovation**
     - Constitute a national network of "public accelerators": creation of territorial innovation platforms, "structures for sharing expertise and resources between administrations, elected representatives, State services, civil society and private organizations in a region, to accelerate innovative projects in the general interest". Prototypes are being implemented in several territories at the initiative of local authorities and private players
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/186)]_
     - Make the digital a driver for transformation in the territories through "territorial hackathons" modeled on Etalab’s practices and intended for local authorities
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/187)]_
     - Develop a reference social network and national web platform for the projects and actors of regional and local innovation
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/188)]_
 - **Set up a program of applied research on open government**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/189)]_
     - In partnership with the Interdisciplinary Research Centre, organize collaborative events and explore the mobilization of collective intelligence and communities of citizens for the creation of public innovations, the co-construction of public action and open government
 
 ----

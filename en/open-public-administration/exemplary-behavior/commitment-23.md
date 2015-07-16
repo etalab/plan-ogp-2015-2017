@@ -23,10 +23,14 @@ The bill thus **consecrates the active role to be played by each official and no
 ### Roadmap
 
 - **Appoint an official, a service, or a legal entity under public law to provide agents under their authority with all relevant advice in respect of ethical obligations and principles**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/190)]_
 - **Introduce legal provisions to better prevent conflicts of interests and to protect civil servants**
     - Put in place a system for agents responsible for certain functions to declare their interests
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/191)]_
     - Reinforce and widen the area of competence of the ethics committee, which will be expanded to include the prevention of conflicts of interest and reinforced in the area of the control of civil servant’s transitions to the private sector
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/192)]_
     - Introduce a protection mechanism in the general statute of officials, so as to allow an agent acting in good faith to report the existence of a conflict of interest without fear of reprisals
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/193)]_
 
 ----
 

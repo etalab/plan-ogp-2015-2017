@@ -30,11 +30,15 @@ Cette mise en œuvre de **l’État Plateforme se diffusera dans chaque ministè
 ### Feuille de route
 
 - **Valider le cadre stratégique « État Plateforme et France Connect » et en décliner les grands principes au cours de l’année 2015 dans les référentiels généraux ou documents normatifs émis par la Direction interministérielle des systèmes d'information et de communication**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/169)]_
 - **Lancer France Connect sur le portail [service-public.fr](http://www.service-public.fr/)**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/166)]_
     - Aboutissement du projet France Connect concrétisé par le démarrage des premières expérimentations à l’automne 2015, suivi d’un lancement en janvier 2016 sur le portail [service-public.fr](http://www.service-public.fr/) (plusieurs millions d’utilisateurs)
     - La généralisation se déroulera à partir de 2016
 - **Mettre en service la « Forge » publique sur le site etatplateforme.modernisation.gouv.fr et d’un magasin d’API sur le site d’ici fin 2015 pour inciter à la création de nouveaux services de manière collaborative**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/167)]_
 - **Lancer plusieurs cycles de sensibilisation pour le développement d’API et la création de nouveaux services auprès des acteurs de la sphère publique et de ses partenaires**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/168)]_
 
 ----
 

@@ -20,9 +20,12 @@ The **civil service schools** are also committed to promoting the spread of cult
 ### Roadmap
 
 - **Produce, jointly with civil society, training modules on open data, the use of data and open government, targeting public officials**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/183)]_
 - **Include more modules on the use of data and open government in initial and continuing training programs provided by national and regional civil service training schools**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/184)]_
     - Include these modules in the curricula of the Ecole Nationale de l’Administration (ENA), of the Ecole de la Modernisation de l’Etat (EME) and in any other schools that wish to support these programs,
 - **Increase awareness on digital issues for central administration managers and support the implementation of digital transformation projects**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/185)]_
     - Identify requirements, practices, difficulties and desires of central administration managers concerning digital transformation issues for society and public policies within their scope of action
     - Set up a first seminar in Autumn 2016, for awareness-raising, training and action on digital issues they have identified and wish to address
 

@@ -40,12 +40,13 @@ _Contributions associées : [#2693](http://contribuez.cnnumerique.fr/debat/114/a
 ### Feuille de route
 
 - **Poursuivre l’ouverture des données à fort impact économique et social, et notamment des « données-pivot »**
-
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/162)]_
 - **Renforcer l’open data des collectivités territoriales : Inscrire dans la loi l’obligation de publier les informations publiques des collectivités de plus de 3500 habitants (y compris communes et EPCI)**
-
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/163)]_
 - **Inscrire dans la loi les principes d’ouverture par défaut des données publiques (avec fermeture par exception) et de leur réutilisation libre et gratuite**
-
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/164)]_
 - **Approfondir l’étude d’opportunité sur l’ouverture des « données d’intérêt général »**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/165)]_
 
 ----
 

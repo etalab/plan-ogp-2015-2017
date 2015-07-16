@@ -26,10 +26,13 @@ De nombreuses initiatives seront valorisées dans cet agenda. Parmi elles, une g
 ### Feuille de route
 
 - **Lancer et organiser les premières étapes de l’opération C3 durant toute l’année 2015**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/199)]_
 - **Récompenser les lauréats de l'opération C3 à l’occasion de la Conférence COP21**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/200)]_
     - Des lauréats du Challenge Climat organisé similairement par le Mexique seront également présents
 - **Poursuivre l’opération en 2016 et 2017**
     - Suivre et accompagner les meilleurs projets d’innovation, en expertise et incubation, capitaliser sur les meilleurs défis pour émettre de nouveaux appels à projets,pérenniser les outils en ligne d’expression citoyenne
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/201)]_
 
 ----
 

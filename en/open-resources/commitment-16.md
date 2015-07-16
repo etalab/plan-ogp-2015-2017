@@ -23,5 +23,7 @@ In 2014, the Secretariat-General for Government Modernization and France Straté
 
 - **Extend the opening of models to other areas of public action**
     - Continue to work with the different administrations to support them in opening their calculation and simulation models
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/160)]_
 - **Produce simulators from existing open models**
     - Leverage the OpenFisca platform to extend it to other areas of legislation and propose adaptations of simulators useful to citizens, economic players and public players. For example, simulation model for energy costs, extension of local taxation, pension calculations, etc.
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/161)]_

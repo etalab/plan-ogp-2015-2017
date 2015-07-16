@@ -45,7 +45,9 @@ _Associated contributions: [#1235 ; #1208 ; #1226](http://contribuez.cnnumeriq
 
 - **Capitalize on previous consultations: improve listing and strengthen accessibility to public debates that took place in France**
     - Continue the effort of listing public debates in France by extending the "DebatesCore"1 standard throughout the whole territory, to facilitate collection and accessibility, at a single access point, for consultations performed
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/155)]_
 - **Empower public actors to successfully lead public consultations**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/156)]_
     - The Secretariat-General for Government Modernization is committed to proposing a simple and agile mechanism for consultation in the form of "Citizens' Workshops"
         - Carry out trials, with pilot ministries, of this mechanism, which is more flexible and agile than conventional consultation formats
         - Present, to partner administrations, the charter establishing the main principles of "Citizens' Workshops" and their implementation protocol

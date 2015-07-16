@@ -21,4 +21,6 @@ Le document publié en novembre 2014 à l’occasion de la **Conférence Environ
 ### Feuille de route
 
 - **Ouvrir et mettre à disposition en format ouvert sur la plateforme data.gouv.fr des données, modèles et simulateurs relatifs au climat, à la transition énergétique, au développement durable**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/197)]_
 - **Publier les données issues des études d’impacts réalisées par le ministère de l’Écologie, du Développement durable et de l’Énergie**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/198)]_

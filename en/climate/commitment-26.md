@@ -26,10 +26,13 @@ Numerous initiatives will be promoted in this agenda. Amongst them, a major inno
 ### Roadmap
 
 - **Launch and organize the first stages of the C3 operation throughout 2015**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/199)]_
 - **Reward the winners of the C3 operation during the COP21 Conference**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/200)]_
     - Laureates of the C3 challenge organized in parallel by the Mexican government will also be present in Paris
 - **Continue the operation in 2016 and 2017**
     - Monitor and support the best innovative projects  capitalize on the best challenges to issue new calls for proposal, perpetuate online tools for expression by citizens
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/201)]_
 
 ----
 

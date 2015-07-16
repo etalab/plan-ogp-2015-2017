@@ -33,9 +33,11 @@ Cette dynamique de transparence et de dialogue avec la société civile sera pro
 ### Feuille de route
 
 - **Réunir les représentants de la société civile avant chaque réunion informelle de négociation**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/194)]_
     - [Une première rencontre](http://www.developpement-durable.gouv.fr/Au-Bourget-pour-les-lyceens-c-est.html?var_mode=calcul) a été organisée à la veille de la session informelle sur les négociations sur le climat du 6-8 mai 2015, avec la société civile : ONG françaises et internationales, représentants à l’ONU des syndicats… afin d’y présenter les travaux et l’état d’avancement des négociations et d’engager la discussion
     - De nouvelles rencontres auront lieu en marge des prochaines sessions de négociations
 - **Réaliser une plateforme participative pour mobiliser la société civile en préparation de la COP 21, qui pourra à terme être étendue à d’autres consultations**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/195)]_
     - Entre juin et novembre 2015, élaboration d’une première version, avec pour objectifs de :
         - sensibiliser au dialogue environnemental et aux grands enjeux de la transition énergétique ;
         - mettre en réseau les habitants, collectifs, porteurs de projets, entreprises, collectivités locales et parties prenantes ;
@@ -44,3 +46,4 @@ Cette dynamique de transparence et de dialogue avec la société civile sera pro
         - recueillir les suggestions et avis des internautes pour permettre le recensement ollaboratif des initiatives locales et constituer une large base de données.
     - Développement d’une deuxième version de la plateforme afin de faire vivre la mobilisation citoyenne au-delà de COP 21. Elle pourrait offrir un support aux consultations citoyennes du Ministère de l’écologie et du développement durable et de l’énergie
 - **Poursuivre la consultation sur les enjeux du climat afin de donner suite au débat citoyen planétaire du 6 juin 2015, qui a rassemblé plus de 10 000 citoyens de 75 pays**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/196)]_

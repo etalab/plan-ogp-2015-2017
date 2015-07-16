@@ -26,10 +26,13 @@ Parmi les recommandations formulées dans le rapport remis par Akim Oural à la 
 
 - **Impulser le développement de l’innovation publique territoriale**
     - Constituer un réseau national « d’accélérateurs publics », soit la création de plateformes territoriales d’innovation, « structure de partage de compétences et de moyens entre les administrations, les élus, les services de l’État, la société civile et les organisations privées d‘un territoire, pour accélérer les projets innovants d’intérêt général ». Des prototypes sont en cours d’installation sur quelques territoires à l’initiative de collectivités et d’acteurs privés
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/186)]_
     - Faire du numérique un levier de transformation dans les territoires en organisant des « hackathons territoriaux » sur le modèle de l’offre de service développée par Etalab à destination des collectivités
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/187)]_
     - Développer une plateforme web et un réseau social nationaux servant de référence pour les projets et acteurs de l’innovation territoriale
-
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/188)]_
 - **Mettre en place un programme de recherche appliquée sur le gouvernement ouvert**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/189)]_
     - En partenariat avec le Centre de Recherches Interdisciplinaires, organiser des évènements collaboratifs et mener des expérimentations sur la mobilisation de l’intelligence collective et des communautés de citoyens pour la création d’innovations publiques, la co-construction de l’action publique et le gouvernement ouvert
 
 ----

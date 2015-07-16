@@ -41,9 +41,13 @@ _Associated contributions: [#2693](http://contribuez.cnnumerique.fr/debat/114/av
 ### Roadmap
 
 - **Continue the opening of data that have a strong economic and social impact, particularly "pivotal data"**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/162)]_
 - **Strengthen open data in local and regional authorities: Enshrine in law the obligation to publish the public information of local authorities of more than 3,500 inhabitants** (including municipalities and public institutions for inter-municipal cooperation)
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/163)]_
 - **Enshrine in law the principles of default opening of public data (with closure being exceptional) and its unrestricted and cost-free reuse**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/164)]_
 - **Improve the opportunity study on the opening of " general interest data”**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/165)]_
 
 ----
 

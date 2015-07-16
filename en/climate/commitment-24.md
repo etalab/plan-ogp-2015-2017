@@ -37,9 +37,11 @@ This process of transparency and dialogue with civil society will be extended af
 ### Roadmap
 
 - **Bring together civil society’s representatives before each informal negotiating meeting**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/194)]_
     - A [first meeting](http://www.developpement-durable.gouv.fr/Au-Bourget-pour-les-lyceens-c-est.html?var_mode=calcul) was organized before the informal session on climate negotiations on 6-8 May 2015, with civil society (French and international NGOs, representatives of unions at the UN…) in order to present the work and the state of progress of negotiations and take part in the discussion
     - New meetings will take place alongside the forthcoming negotiation sessions
 - **Create a participatory platform to mobilize civil society in preparation for COP 21, which may be extended to other consultations**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/195)]_
     - Between June and November 2015, draft a first version, with the aim of:
         - raising awareness of environmental dialogue and the main stakes of the energy transition
         - organize a network involving inhabitants, action groups, project holders, companies, local authorities and stakeholders
@@ -48,3 +50,4 @@ This process of transparency and dialogue with civil society will be extended af
         - collect the suggestions and opinions of Internet users to allow the collaborative listing of local initiatives and constitute a broad database
     - Develop of a second version of the platform in order to ensure that citizens' mobilization lasts beyond COP 21. This second version could be extended further to support future citizens' consultations led by the Ministry of Ecology, Sustainable Development and Energy
 - **Continue the consultation on climate issues in order to follow up on from the global citizens' debate on 6 June 2015, which assembled more than 10,000 citizens from 75 countries**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/196)]_

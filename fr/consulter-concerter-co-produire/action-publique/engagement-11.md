@@ -21,6 +21,7 @@ Cet effort se poursuit avec le développement, toujours sous licence ODBL, de la
 ### Feuille de route
 
 - **Multiplier les coopérations entre acteurs publics et société civile pour la constitution d’infrastructures de données essentielles et de registres-clé de données**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/151)]_
 
 #### Et aussi :
 

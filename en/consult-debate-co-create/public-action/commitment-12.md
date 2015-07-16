@@ -33,9 +33,12 @@ _[Online contribution #1221](http://contribuez.cnnumerique.fr/debat/95/avis/1221
 
 ### Roadmap
 
-- **Continue the open-data provision of legal and legislative resources that already exist **
+- **Continue the open-data provision of legal and legislative resources that already exist**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/152)]_
 - **Continue the collaborative process with civil society for the production of innovative services and open source tools facilitating the understanding of texts and their preparation**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/153)]_
 - **On the Digital Bill, continue the participative process in collaboration with civil society by opening the draft bill (“avant projet de loi”) to consultation** for citizens to comment it and suggest amendments
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/154)]_
 
 #### See Also:
 

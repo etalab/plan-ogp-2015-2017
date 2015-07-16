@@ -20,13 +20,16 @@ Les agents publics doivent être les acteurs des changements permis par la révo
 ### Feuille de route
 
 - **Produire, en co-construction avec la société civile, des modules de formation à l’ouverture et à l’utilisation des données et au gouvernement ouvert à destination des agents publics**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/183)]_
 - **Inclure dans la formation initiale et la formation continue des écoles de formation des agents publics nationaux et territoriaux davantage de modules sur l’ouverture et l’utilisation des données et sur le gouvernement ouvert**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/184)]_
     - Intégrer ces modules dans les cursus de l’ENA, de l’École de la Modernisation de l’État (pour la formation continue) et de toute autre école qui souhaiterait relayer ces enjeux
 - **Mettre en place un dispositif de sensibilisation des directeurs d’administration centrale aux enjeux du numérique, et d’accompagnement à la mise en œuvre de projets de transformation numérique**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/185)]_
     - Identifier les besoins, difficultés, souhaits des directeurs d’administrations centrales sur les enjeux de transformation numérique de la société et des politiques publiques dans leurs champs d’actions
     - Sensibiliser les directeurs d’administration centrale à l’automne, lors d’un séminaire sur les enjeux et solutions offertes par le numérique pour répondre à leurs préoccupations
     - Inclure un volet sur les enjeux et solutions offerts par le numérique lors d’un séminaire des directeurs d’administration centrale, à l’automne
-    - Prévoir ultérieurement de diffuser plus largement ces module
+    - Prévoir ultérieurement de diffuser plus largement ces modules
 
 ----
 

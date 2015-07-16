@@ -19,6 +19,7 @@ Le 22 janvier 2015, la ministre de l’Éducation nationale, de l’Enseignement
 ### Feuille de route
 
 - **Permettre aux jeunes de s’engager via de nouvelles missions de service civique au sein de l’École**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/174)]_
 
   Le ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche a un objectif de recrutement de 5 000 jeunes en Service civique à la rentrée 2015-2016 et de 10 000 volontaires en 2016-2017. D’ici la rentrée 2017, l’objectif est d’offrir 37 000 missions incluant les missions portées par les associations dans le champ scolaire et universitaire.
 
@@ -29,15 +30,17 @@ Le 22 janvier 2015, la ministre de l’Éducation nationale, de l’Enseignement
   Les neufs grands types de mission des volontaires en Service civique sont la contribution aux activités éducatives, pédagogiques et citoyennes de l'école primaire ; l’accompagnement des projets d'éducation à la citoyenneté ; le soutien aux actions et projets dans les domaines de l'éducation artistique et culturelle et du sport ; le soutien aux actions et projets d'éducation au développement durable ; l’animation de la réserve citoyenne de l'éducation nationale ; la contribution à l'organisation du temps libre des internes en développant des activités nouvelles ; la prévention des addictions ; l’information et l’accompagnement des jeunes en situation de décrochage scolaire ou souhaitant reprendre une formation diplômante ; l’aide à l’information et à l’orientation des élèves.
 
 - **Permettre aux citoyens d’accompagner l’École dans la transmission des valeurs de la République : la réserve citoyenne de l’éducation nationale**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/175)]_
 
   Ce nouveau dispositif, dont la circulaire du 12 mai 2015[^2] expose les grandes lignes, donne
   aux personnes majeures qui le souhaitent, l’opportunité de mettre la richesse de leur
   expérience au service de l’école, notamment dans les champs d'expertise suivants :
-      - éducation à la citoyenneté et à la laïcité,
-      - éducation à l’égalité entre filles et garçons,
-      - éducation aux médias et à l’information,
-      - lutte contre le racisme, l’antisémitisme et contre toutes les formes de discriminations,
-      - rapprochement de l’école et du monde professionnel.
+
+  - éducation à la citoyenneté et à la laïcité,
+  - éducation à l’égalité entre filles et garçons,
+  - éducation aux médias et à l’information,
+  - lutte contre le racisme, l’antisémitisme et contre toutes les formes de discriminations,
+  - rapprochement de l’école et du monde professionnel.
 
   Pour l’institution scolaire, cela constitue l’occasion de mobiliser les forces vives de la société
   civile au-delà des différentes composantes de la communauté éducative et des acteurs qui

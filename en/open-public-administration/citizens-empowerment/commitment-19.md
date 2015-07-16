@@ -1,4 +1,4 @@
-# Commitment 15
+# Commitment 19
 
 ## Empower civil society to support schools
 
@@ -19,6 +19,7 @@ On January 22nd of 2015, the Minister of National Education, Higher Education an
 ### Roadmap
 
 - **Empower young people to get involved via new civic service missions within schools**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/174)]_
 
   The Ministry of National Education, Higher Education and Research has a recruitment objective of 5,000 young people for civic service at the beginning of the 2015-2016 school year and 10,000 volunteers in 2016-2017. By the beginning of the 2017 school year, the objective is to offer 37,000 missions including missions run by associations within the school and university field.
 
@@ -29,6 +30,7 @@ On January 22nd of 2015, the Minister of National Education, Higher Education an
   The nine main types of mission of volunteers for civic service are: contribution to educative, teaching and civic responsibility activities in primary school; support to projects for education in citizen matters; support to actions and projects in the fields of artistic and cultural education and sport; support to actions and projects for education in sustainable development; organization of the national education department's civic reserve; contribution to the organization of the free time of boarders in developing new activities; prevention of addictions; information and support to young people who are failing at school or who wish to resume qualifying training; help with providing information and orientation to pupils.
 
 - **Allow citizens to support schools in the transmission of the Republic’s values: the national education department's civic reserve**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/175)]_
 
   This new arrangement (as outlined in the circular dated May 12th 2015[^2]) allows adults who desire to have the opportunity to dedicate their time and provide their experience to serve schools, particularly in the following fields of expertise:
 

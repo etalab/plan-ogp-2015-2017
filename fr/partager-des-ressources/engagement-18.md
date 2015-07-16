@@ -30,9 +30,13 @@ Au sein de sa stratégie de services publics numériques, la France a mis en pla
 
 - **Renforcer la mesure de satisfaction des services publics numériques et la transparence des données, prendre en compte les retours des usagers, associer les parties prenantes à la conception et à l’évolution des services**
     - Lancer la publication par chaque ministère de leurs chiffres-clés d’usage des services publics sur ses différents canaux
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/170)]_
     - Cartographier les flux entrants et sortants des sites publics afin de mesurer l’intensité de l’intégration entre les sites par thématique ou moment de vie, et détecter ainsi les sites qui ne concourent pas à l’accompagnement des parcours utilisateurs par des liens hypertextes suffisants ou pertinents
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/171)]_
     - Extraire et rendre publiques les données statistiques du logiciel commun aux sites gouvernementaux (environ 650 sites, dont certains suivis depuis plus de 10 ans) et les analyser au moyen des méthodes de la science des données (« data sciences »)
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/172)]_
     - Déployer des méthodes de co-construction (openlabs, design, atelier usagers-agents...)
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/173)]_
 
 ----
 

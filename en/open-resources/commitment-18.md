@@ -28,9 +28,13 @@ Every 3-4 months, the SGMAP also brings together communities of practice where p
 
 - **Improve satisfaction measurement and take into account user feedback, involve stakeholders into services design and transformation**
     - Launch the publication by each ministry of key figures on the use of public services on their various channels
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/170)]_
     - Map inflows and outflows, in order to measure the integration of various public sites according to theme or time of life, and, in doing so, detect websites that are not directly involved in assisting users with sufficient or relevant hypertext  
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/171)]_
     - Extract statistical data from software common to government websites (around 650 sites, some of which have been monitored for over 10 years), and analyze them using data sciences methods
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/172)]_
     - Develop and roll out co-construction methods (OpenLab, design, user-civil service workshops…)
+      _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/173)]_
 
 ----
 

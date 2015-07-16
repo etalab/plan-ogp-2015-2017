@@ -21,6 +21,7 @@ This effort is continuing with the development, still under ODBL license, of a d
 ### Roadmap
 
 - **Increase cooperation between public players and civil society in constituting essential data infrastructure and key registers**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/151)]_
 
 #### See Also:
 

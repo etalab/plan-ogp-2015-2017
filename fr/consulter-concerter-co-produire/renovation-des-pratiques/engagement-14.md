@@ -25,13 +25,13 @@ Enfin, l’ouverture des résultats des informations sur les décisions habituel
 
 - **Ouvrir la justice à la société par la création de conseils de juridiction**
     - Créer des conseils de juridiction auprès des tribunaux de grande instance et des cours d’appel pour permettre une réflexion commune sur des problématiques transversales telles que l’aide juridictionnelle, l’accès au droit, l’accès à la justice, la conciliation, la médiation et l’aide aux victimes. Présidés par les chefs de juridiction, ces conseils de juridiction réuniront des magistrats du siège et du parquet, des fonctionnaires de la juridiction et de l’administration pénitentiaire et de la protection judiciaire de la jeunesse, des élus locaux, des organisations syndicales, des représentants locaux de l’État, des professions du droit, des collectivités locales, et des représentants associatifs.
-    [[suivi](https://git.framasoft.org/etalab/suivi/issues/157)]
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/157)]_
 - **Faciliter le recours à la médiation et à la conciliation sur la base du rapport rendu en avril 2015 par la mission interministérielle d’évaluation de l’offre de médiation et de conciliation**
-    [[suivi](https://git.framasoft.org/etalab/suivi/issues/158)]
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/158)]_
 - **Permettre aux citoyens de mieux évaluer les possibilités de succès de leurs actions en justice**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/159)]_
     - Dans certains contentieux civils (pension alimentaire, prestation compensatoire, indemnisation du préjudice corporel…) des informations sur les décisions habituellement rendues par les juridictions au niveau national seront mises à disposition du public
     - Au niveau local, des juridictions pilotes ont engagé un partenariat avec les universités afin d’analyser leur jurisprudence. Utiles aux magistrats pour assurer la cohérence de leurs décisions, ces analyses permettront en outre aux avocats et aux citoyens de disposer d’un document facilitant leurs démarches et un éventuel règlement amiable du litige
-    [[suivi](https://git.framasoft.org/etalab/suivi/issues/159)]
 
 ----
 

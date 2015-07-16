@@ -34,8 +34,11 @@ _[Contribution en ligne #1221](http://contribuez.cnnumerique.fr/debat/95/avis/12
 ### Feuille de route
 
 - **Poursuivre la mise à disposition en open data des ressources juridiques et législatives, déjà existantes**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/152)]_
 - **Poursuivre la démarche collaborative avec la société civile pour la production de services innovants et d’outils open source facilitant la compréhension des textes et leur élaboration**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/153)]_
 - **Poursuivre la démarche participative engagée avec la société civile sur le projet de loi numérique en mettant à consultation en ligne l’avant-projet de loi** afin que les citoyens puissent le commenter et proposer des amendements
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/154)]_
 
 #### Et aussi :
 

@@ -29,11 +29,15 @@ The implementation of **the Government as a Platform strategy will spread throug
 ### Roadmap
 
 - **Validate the strategic framework "Government as a Platform and France Connect" and apply its main principles during the year 2015 in the general reference systems or standards documents issued by the DISIC (Interministerial Directorate for Information and Communications Systems)**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/169)]_
 - **Launch France Connect on the portal [service-public.fr](http://www.service-public.fr/langue/english/)**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/166)]_
     - The France Connect project will hold first trials in autumn 2015, followed by a launch in January 2016 on the portal www.service-public.fr (several million users)
     - Generalization will take place from 2016
 - **Launch public forge on Etatplateforme.gouv.fr website, along with a repository of open API before the end of the 2015 year, in order to encourage the creation, in a collaborative manner, of new public services**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/167)]_
 - **Launch several cycles of awareness-raising for the development of APIs and the creation of new services amongst actors in the public sphere and its partners**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/168)]_
 
 ----
 

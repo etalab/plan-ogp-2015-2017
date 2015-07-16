@@ -24,10 +24,14 @@ Le projet de loi propose ainsi de **consacrer le rôle actif que doit jouer chaq
 ### Feuille de route
 
 - **Désigner un fonctionnaire, un service ou une personne morale de droit public chargé d’apporter aux agents placés sous son autorité tout conseil utile au respect des obligations et des principes déontologiques**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/190)]_
 - **Introduire des dispositions légales pour mieux prévenir les conflits d’intérêts et protéger les fonctionnaires**
     - Mettre en place un régime de déclaration d’intérêts à la charge des agents occupant certaines fonctions
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/191)]_
     - Renforcer les pouvoirs et le champ de compétence de la commission de déontologie, qui seront étendus à la prévention des conflits d’intérêt et renforcés en matière de contrôle des départs vers le secteur privé
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/192)]_
     - Introduire un régime de protection dans le statut général des fonctionnaires afin de permettre à un agent de bonne foi de signaler l’existence d’un conflit d’intérêt sans crainte d’éventuelles pressions
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/193)]_
 
 ----
 

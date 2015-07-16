@@ -45,7 +45,9 @@ _Contributions associées : [#1235 ; #1208 ; #1226](http://contribuez.cnnumer
 
 - **Capitaliser sur l’historique des consultations : enrichir le recensement et renforcer l’accessibilité des débats publics ayant eu lieu en France**
     - Poursuivre l’effort de recensement des débats publics en France en déployant plus largement sur le territoire la norme « DebatesCore » pour faciliter le recueil et l’accessibilité en un point d’accès unique des consultations menées
+      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/155)]_
 - **Outiller les acteurs publics pour réussir les consultations citoyennes**
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/156)]_
     - Le secrétariat général pour la modernisation de l’action publique s’engage à proposer un dispositif simple et agile de consultation sous forme d’ « Ateliers citoyens »
         - Expérimenter avec des ministères pilotes ce dispositif plus souple et plus agile que les formats classiques de consultation
         - Présenter aux administrations partenaires la charte établissant les grands principes des « Ateliers citoyens » ainsi que leur protocole de mise en œuvre

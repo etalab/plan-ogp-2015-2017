@@ -21,4 +21,6 @@ A document was published in November 2014 on the occasion of the **Environmental
 ### Roadmap
 
 - **Provide on the platform data.gouv.fr data, models and simulators regarding climate, energy transition and sustainable development**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/197)]_
 - **Release and publish data from impact assessment studies realized by the Ministry of Ecology, Sustainable Development and Energy**
+  _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/198)]_
