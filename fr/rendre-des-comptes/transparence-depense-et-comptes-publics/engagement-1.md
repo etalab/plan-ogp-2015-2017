@@ -51,11 +51,13 @@ publier les informations publiques des collectivités de plus de 3 500 habitants
 communes et EPCI)**
 _[[suivi](https://git.framasoft.org/etalab/suivi/issues/116)]_
 
-#### Et aussi :
+##### Et aussi :
 
 - La **plateforme nationale data.gouv.fr a été conçue pour pouvoir accueillir et référencer aisément l’open data des collectivités** : celles-ci peuvent soit héberger leurs données sur [data.gouv.fr](http://www.data.gouv.fr/) en se créant leur propre page, soit y voir leur plateforme et ses données automatiquement référencées grâce aux APIs et au moissonnage.
 - Etalab a **également mis spécifiquement à disposition des collectivités territoriales la plateforme territoire.data.gouv.fr** :  sur simple inscription gratuite, il est possible de créer une page dédiée aux données relatives à la collectivité : population, logement, comptes publics, emploi, voirie, action sociale, culture, environnement, équipement... Ces jeux de données sont automatiquement exportables sur le site internet de la collectivité.
 - L’association **Open Data France** a établi une liste des données susceptibles d’être mises à disposition par les collectivités, et accompagnera celles qui le souhaitent dans leur démarche : http://www.opendatafrance.net/2015/06/19/loi-notre-quelles-sont-les-donnees-publiques-a-ouvrir-en-priorite/.
+
+----
 
 ### Publier en ligne les délibérations et comptes rendus des conseils municipaux
 
@@ -92,6 +94,8 @@ site internet de la commune, quand ils existent, les comptes rendus des conseils
 municipaux, pendant six ans minimum** (contre un affichage simple sous huit jours sans
 durée minimale auparavant)
 _[[suivi](https://git.framasoft.org/etalab/suivi/issues/118)]_
+
+----
 
 ### Publier en open data des données relatives aux permis de construire
 

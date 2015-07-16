@@ -39,11 +39,13 @@ Lastly, since 2014 the financial jurisdictions[^1] initiated the opening of the 
 - **Strengthen open data in local and regional authorities: enshrine in law the requirement for local communities of more than 3500 inhabitants to publish their public information in open data format**
 _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/116)]_
 
-#### See Also:
+##### See Also:
 
 - The **national platform data.gouv.fr was designed to host and easily reference local authorities open data**. These can either host their data on [data.gouv.fr](http://www.data.gouv.fr/) by creating their own page, or have their platform and data automatically referenced through APIs and web harvesting.
 - Etalab has **also specifically made the platform territoire.data.gouv.fr available to local and regional authorities**. Registering for free, they can create a page dedicated to data issued from centralized and decentralized administrations relative to their community – population, housing, public accounts, employment, highways, social action, culture, environment, facilities, etc. These data sets can be automatically exported on the local authority's Internet site.
 - The association Open Data France has established a list of “priority” data that may be made available by local authorities, and will provide support to those who wish to open these data: http://www.opendatafrance.net/2015/06/19/loi-notre-quelles-sont-les-donnees-publiques-a-ouvrir-en-priorite/
+
+----
 
 ### Publish the decisions and reports of municipal council meetings online
 
@@ -66,6 +68,8 @@ To render information and local decisions more accessible, online publication wi
 _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/117)]_
 - **Post the minutes for municipal council meetings within one week after the municipal council meeting on the local government website (where it exists) for at least six years** (as opposed to a one-off posting made within eight days for an indeterminate minimum period).
 _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/118)]_
+
+----
 
 ### Publish information relative to building permits in open data
 

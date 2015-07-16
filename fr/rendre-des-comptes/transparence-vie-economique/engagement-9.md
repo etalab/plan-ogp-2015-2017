@@ -57,12 +57,12 @@ sectoriels, seront également ajoutés au corpus.
 ### Feuille de route
 
 - **Eclairer la société civile sur le contenu des négociations internationales**
-      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/136)]_
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/136)]_
     - Les éléments relatifs à chaque nouveau cycle de négociation commerciale internationale seront mis à disposition du public en continu sur la page dédiée du site diplomatie.gouv.fr et en open data sur data.gouv.fr
     - Des éléments complémentaires, tels que les mandats, pourront être ajoutés selon les décisions de déclassification prises par l’Union européenne
     - Le stock des éléments relatifs aux négociations commerciales internationales passées sera ajouté à ce corpus, comme les mandats de négociation de la Commission européenne rendus publics, les documents de position officiels mis à la disposition du public et le texte des traités de commerce ratifiés et publics
 - **Assurer un maximum de publicité aux évaluations et au suivi des accords internationaux**
-      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/139)]_
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/139)]_
     - Des études et éléments d’analyse et d’évaluation des accords commerciaux ex-post et ex-ante, qu’ils soient transversaux ou sectoriels, pourront également être ajoutés
     - La représentation nationale pourra être informée grâce à la remise d’un rapport annuel sur les négociations commerciales internationales
     - Tous les comptes rendus du Comité de suivi stratégique des sujets de politique commerciale seront portés à la connaissance du public, ainsi que les rapports annuels sur les négociations commerciales internationales

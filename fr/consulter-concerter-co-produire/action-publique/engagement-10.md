@@ -54,11 +54,13 @@ au défi, la start-up intégrera un innovateur dans son équipe. En fonction du 
 financement participatif pourra compléter le financement public.
 
 #### Feuille de route
-      
+
 - Lancer l’appel à projets « Fix-it des quartiers » fin 2015
 - Mettre à disposition une première version de la solution numérique de signalement d’incidents en septembre 2015 (objectif : 100 communes concernées avant la fin de l’année)
 - Lancer mi-2016 les solutions pouvant être généralisées
-      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/140)]_
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/140)]_
+
+----
 
 ### « _Fix-it numérique_ »
 
@@ -76,15 +78,13 @@ sécurité des systèmes d’information, concernera les sites web publics et pa
 
 #### Feuille de route
 
-- Mettre en place de manière expérimentale une plateforme de signalement courant
-2016
-
+- Mettre en place de manière expérimentale une plateforme de signalement courant 2016
 - Ouvrir la plateforme au public fin 2016
-      _[[suivi](https://git.framasoft.org/etalab/suivi/issues/142)]_
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/142)]_
 
 ----
 
-[^1]:  « Fix-it » est inspiré de l’anglais « to fix » qui signifie régler (un problème), réparer
+[^1]: « Fix-it » est inspiré de l’anglais « to fix » qui signifie régler (un problème), réparer
 
 [^2]: http://www.territoires.gouv.fr/IMG/pdf/06.03.2015_dossier_de_presse_comite_interministeriel-egalite-citoyennete-la_republique_en_actes.pdf
 
