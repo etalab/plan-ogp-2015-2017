@@ -1,4 +1,4 @@
-# Methodology for NAP Development
+# Appendix: Methodology for NAP Development
 
 The building and preparation of the National action plan for open government provided an
 opportunity for a vast consultation with civil society, within the government and the
