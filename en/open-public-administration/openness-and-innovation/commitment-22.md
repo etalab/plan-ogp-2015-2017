@@ -41,6 +41,6 @@ The Interdisciplinary Research Centre (CRI) was founded in 2005 in Paris, it is 
 
 [^1]:  http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/pmms-cimap3.pdf
 
-[^2]:  "L’innovation au pouvoir ! Pour une action publique réinventée au service des territoires" (Innovation needed! For redesigned public action at the service of the regions), April http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/futurs-publics-innover-pour-moderniser-action-publique
+[^2]:  "L’innovation au pouvoir ! Pour une action publique réinventée au service des territoires" (Innovation needed! For redesigned public action at the service of the regions), April http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/futurs-publics-innover-pour-moderniser-action-publique
 
 [^3]:  http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/reacteur-public-État-et-collectivites-unis-pour-mieux-innover

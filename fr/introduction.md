@@ -54,7 +54,7 @@ quartier ([engagement 10](](consulter-concerter-co-produire/action-publique/enga
 Le citoyen devient aussi un acteur de l’évaluation des politiques publiques (engagements
   [13](consulter-concerter-co-produire/renovation-des-pratiques/engagement-13.md),
   [14](consulter-concerter-co-produire/renovation-des-pratiques/engagement-14.md)).
-C’est l’intelligence collective au service de l’action publique !
+C’est l’intelligence collective au service de l’action publique !
 
 **Partager des ressources numériques utiles à l’innovation économique et sociale** grâce à la
 mise à disposition non seulement des données ([engagement 15](partager-des-ressources/engagement-15.md)),
