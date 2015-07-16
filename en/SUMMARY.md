@@ -1,4 +1,4 @@
-# For a Transparent and Collaborative Government: France National Action Plan
+# For a Transparent and Collaborative Government: French National Action Plan
 
 - [About This E-book](README.md)
 - [Foreword](foreword.md)
