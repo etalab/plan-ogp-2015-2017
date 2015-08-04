@@ -17,7 +17,7 @@ Bien souvent, ces modèles coexistent parfois au sein des administrations, sans 
 
 L’utilisation de modèles ouverts, dont le code est accessible, réutilisable, déclinable et peut être amélioré par une communauté ainsi que par les administrations elles-mêmes, permet le décloisonnement au sein de l’administration et leur engagement dans une dynamique de coopération et d’innovation ouverte.
 
-En 2014, le secrétariat général pour la modernisation de l’action publique (SGMAP) et France ont développé et mis à disposition de la communauté **la plateforme [OpenFisca](http://www.openfisca.fr/)**, un moteur et une API ouverts permettant la **micro-simulation du système socio-fiscal français**. Premier modèle entièrement ouvert développé par l’administration, il introduit dans un outil accessible à tous les principes du gouvernement ouvert puisqu’il sert à la fois :
+En 2014, le secrétariat général pour la modernisation de l’action publique (SGMAP) et France Stratégie ont développé et mis à disposition de la communauté **la plateforme [OpenFisca](http://www.openfisca.fr/)**, un moteur et une API ouverts permettant la **micro-simulation du système socio-fiscal français**. Premier modèle entièrement ouvert développé par l’administration, il introduit dans un outil accessible à tous les principes du gouvernement ouvert puisqu’il sert à la fois :
 
 -  la transparence : chaque citoyen peut visionner les règles et paramètres de la législation, la distribution de ce qu’il perçoit et la répartition de sa contribution au système ;
 -  la stimulation d’une diversité de points de vue ainsi que l’efficacité de la décision publique, puisque des administrations, des chercheurs, des journalistes… peuvent simuler l’impact de réformes ;
