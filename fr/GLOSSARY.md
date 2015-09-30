@@ -1,6 +1,6 @@
 # API
 
-Interface qui permet à un logiciel d’offrir des services à d’autres logiciels. Ce système est principalement utilisé pour permettre l’intégration de nouveaux services à une plateforme et l’interrogation, par un programme, d’une base de données externe.
+Interface qui permet à un logiciel d'offrir des services à d'autres logiciels. Ce système est principalement utilisé pour permettre l'intégration de nouveaux services à une plateforme et l'interrogation, par un programme, d'une base de données externe.
 (Source : Conseil national du Numérique)
 
 # Bien commun
@@ -21,12 +21,12 @@ en ligne.
 
 # Crowdsourcing
 
-Mode de réalisation d’un projet ou d’un produit faisant appel aux contributions d’un grand nombre de personnes, généralement des internautes. On peut, par exemple, recourir à la production participative pour concevoir un logiciel ou pour élaborer une encyclopédie. On trouve aussi l’expression « production collaborative ».
+Mode de réalisation d'un projet ou d'un produit faisant appel aux contributions d'un grand nombre de personnes, généralement des internautes. On peut, par exemple, recourir à la production participative pour concevoir un logiciel ou pour élaborer une encyclopédie. On trouve aussi l'expression « production collaborative ».
 (Source : France Terme)
 
 # Datascience
 
-La science de données est l'extraction de connaissance de données. Elle s’appuie sur des techniques et des théories tirées de nombreux domaines : mathématiques, statistique, théorie de l'information, modèles de probabilité, l'apprentissage automatique, la programmation informatique, l'analytique prophétique etc. Le "scientifique des données" s'appuie sur la fouille de données, les statistiques, le traitement du signal, diverses méthodes de référencement, apprentissage automatique et la visualisation de données. Il s'intéresse donc à la classification, au nettoyage, à l'exploration et à l'analyse et à la protection de bases de données.
+La science de données est l'extraction de connaissance de données. Elle s'appuie sur des techniques et des théories tirées de nombreux domaines : mathématiques, statistique, théorie de l'information, modèles de probabilité, l'apprentissage automatique, la programmation informatique, l'analytique prophétique etc. Le "scientifique des données" s'appuie sur la fouille de données, les statistiques, le traitement du signal, diverses méthodes de référencement, apprentissage automatique et la visualisation de données. Il s'intéresse donc à la classification, au nettoyage, à l'exploration et à l'analyse et à la protection de bases de données.
 (Source : Wikipédia)
 
 # Datavisualisation
@@ -36,12 +36,12 @@ Représentation graphique de données ou visualisation de données. Elle permet 
 
 # Données ouvertes
 
-Données qu'un organisme met à la disposition de tous, sous forme de fichiers numériques, dans un format exploitable informatiquement (voir la définition), gratuitement, afin de permettre leur réutilisation. Les données ouvertes n'ont généralement pas de caractère personnel. Elles sont les plus granulaires possibles, mais ne permettent pas l’identification ou la ré-identification d’une personne. La réutilisation des données ouvertes n’est généralement pas soumise à conditions, sauf lorsque l’organisme opte pour des licences impliquant certaines règles de repartage (exemple licence ODBL). Plus d’information sur : http://www.data.gouv.fr/fr/faq
+Données qu'un organisme met à la disposition de tous, sous forme de fichiers numériques, dans un format exploitable informatiquement (voir la définition), gratuitement, afin de permettre leur réutilisation. Les données ouvertes n'ont généralement pas de caractère personnel. Elles sont les plus granulaires possibles, mais ne permettent pas l'identification ou la ré-identification d'une personne. La réutilisation des données ouvertes n'est généralement pas soumise à conditions, sauf lorsque l'organisme opte pour des licences impliquant certaines règles de repartage (exemple licence ODBL). Plus d'information sur : http://www.data.gouv.fr/fr/faq
 (Source : http://opendatahandbook.org/glossary/en/)
 
 # Données de référence ou données pivots
 
-Les données pivots sont des données de référence servant à nommer ou à identifier des entités (notamment des produits, des entités économiques, des territoires ou des acteurs - personnes physiques et morales). Ces référentiels sont indispensables pour lier des bases de données de nature hétérogène et construire une architecture informationnelle unifiée. L’ouverture en open data de ces données permettrait de donner sa pleine efficacité au projet du web des données (Linked Open Data).
+Les données pivots sont des données de référence servant à nommer ou à identifier des entités (notamment des produits, des entités économiques, des territoires ou des acteurs - personnes physiques et morales). Ces référentiels sont indispensables pour lier des bases de données de nature hétérogène et construire une architecture informationnelle unifiée. L'ouverture en open data de ces données permettrait de donner sa pleine efficacité au projet du web des données (Linked Open Data).
 (Source : Conseil national du Numérique)
 
 # Exploitable informatiquement
@@ -66,7 +66,7 @@ En informatique, une forge est un système de gestion de développement collabor
 
 # Interface de Programmation
 
-Interface qui permet à un logiciel d’offrir des services à d’autres logiciels. Ce système est principalement utilisé pour permettre l’intégration de nouveaux services à une plateforme et l’interrogation, par un programme, d’une base de données externe.
+Interface qui permet à un logiciel d'offrir des services à d'autres logiciels. Ce système est principalement utilisé pour permettre l'intégration de nouveaux services à une plateforme et l'interrogation, par un programme, d'une base de données externe.
 (Source : Conseil national du Numérique)
 
 # Interopérabilité
@@ -76,7 +76,7 @@ Capacité que possède un produit ou un système à fonctionner avec d'autres pr
 
 # Licence Open Database
 
-La licence "Open Database License" (ODbL) permet à chacun d’exploiter publiquement, commercialement ou non, des bases de données; à condition néanmoins de maintenir la licence sur la base de données, et éventuellement, sur les modifications qui y sont apportées, et de mentionner expressément l’usage, s’il génère des créations à partir de celles‐ci. Elle est issue du projet opendatacommons.org de l'Open Knowledge Foundation.
+La licence "Open Database License" (ODbL) permet à chacun d'exploiter publiquement, commercialement ou non, des bases de données; à condition néanmoins de maintenir la licence sur la base de données, et éventuellement, sur les modifications qui y sont apportées, et de mentionner expressément l'usage, s'il génère des créations à partir de celles‐ci. Elle est issue du projet opendatacommons.org de l'Open Knowledge Foundation.
 (Source : https://fr.wikipedia.org/wiki/Open_Database_License)
 
 # Logiciel libre
@@ -86,27 +86,27 @@ Un logiciel libre (ou "open source") est un logiciel dont l'utilisation, l'étud
 
 # Métadonnées
 
-Une métadonnée est une donnée servant à décrire ou à définir une autre donnée. Pour les communications électroniques, cela désigne donc les traces laissées par une personne, à l’exception du contenu des échanges.
+Une métadonnée est une donnée servant à décrire ou à définir une autre donnée. Pour les communications électroniques, cela désigne donc les traces laissées par une personne, à l'exception du contenu des échanges.
 (Source : Conseil national du Numérique)
 
 # ODbL
 
-La licence "Open Database License" (ODbL) permet à chacun d’exploiter publiquement, commercialement ou non, des bases de données; à condition néanmoins de maintenir la licence sur la base de données, et éventuellement, sur les modifications qui y sont apportées, et de mentionner expressément l’usage, s’il génère des créations à partir de celles‐ci. Elle est issue du projet opendatacommons.org de l'Open Knowledge Foundation.
+La licence "Open Database License" (ODbL) permet à chacun d'exploiter publiquement, commercialement ou non, des bases de données; à condition néanmoins de maintenir la licence sur la base de données, et éventuellement, sur les modifications qui y sont apportées, et de mentionner expressément l'usage, s'il génère des créations à partir de celles‐ci. Elle est issue du projet opendatacommons.org de l'Open Knowledge Foundation.
 (Source : https://fr.wikipedia.org/wiki/Open_Database_License)
 
 # Open data
 
-Données qu'un organisme met à la disposition de tous, sous forme de fichiers numériques, dans un format exploitable informatiquement (voir la définition), gratuitement, afin de permettre leur réutilisation. Les données ouvertes n'ont généralement pas de caractère personnel. Elles sont les plus granulaires possibles, mais ne permettent pas l’identification ou la ré-identification d’une personne. La réutilisation des données ouvertes n’est généralement pas soumise à conditions, sauf lorsque l’organisme opte pour des licences impliquant certaines règles de repartage (exemple licence ODBL). Plus d’information sur : http://www.data.gouv.fr/fr/faq
+Données qu'un organisme met à la disposition de tous, sous forme de fichiers numériques, dans un format exploitable informatiquement (voir la définition), gratuitement, afin de permettre leur réutilisation. Les données ouvertes n'ont généralement pas de caractère personnel. Elles sont les plus granulaires possibles, mais ne permettent pas l'identification ou la ré-identification d'une personne. La réutilisation des données ouvertes n'est généralement pas soumise à conditions, sauf lorsque l'organisme opte pour des licences impliquant certaines règles de repartage (exemple licence ODBL). Plus d'information sur : http://www.data.gouv.fr/fr/faq
 (Source : http://opendatahandbook.org/glossary/en/)
 
 # Open Data Camp
 
-Événement réunissant des personnes de compétences diverses (agents publics, développeurs, innovateurs, chercheurs etc.) qui travaillent de façon collaborative sur des projets ou problèmes à résoudre (développement d’applications, programmation informatique, analyse de politique publique etc.) à partir de données ouvertes. Voir des exemples : https://www.etalab.gouv.fr/tag/open-data-camp
+Événement réunissant des personnes de compétences diverses (agents publics, développeurs, innovateurs, chercheurs etc.) qui travaillent de façon collaborative sur des projets ou problèmes à résoudre (développement d'applications, programmation informatique, analyse de politique publique etc.) à partir de données ouvertes. Voir des exemples : https://www.etalab.gouv.fr/tag/open-data-camp
 (Source : Etalab)
 
 # Open Lab
 
-Les open labs sont des laboratoires ouverts qui facilitent les collaborations et la créativité afin de diffuser plus largement la culture de l’expérimentation (prise de risque mesurée, observation de terrain, droit à l’erreur, etc.) et de l’innovation ouverte. Dans le cadre de l’action publique, ils ont pour vocation de mettre en relation des agents publics et des acteurs externes à l’administration (acteurs privés, chercheurs en sociologie, en sciences politiques, designers) pour la conduite de projets collaboratifs. Ces laboratoires fonctionnent avec une grande souplesse organisationnelle et permettent à chacun de contribuer de manière libre et autonome à un projet.
+Les open labs sont des laboratoires ouverts qui facilitent les collaborations et la créativité afin de diffuser plus largement la culture de l'expérimentation (prise de risque mesurée, observation de terrain, droit à l'erreur, etc.) et de l'innovation ouverte. Dans le cadre de l'action publique, ils ont pour vocation de mettre en relation des agents publics et des acteurs externes à l'administration (acteurs privés, chercheurs en sociologie, en sciences politiques, designers) pour la conduite de projets collaboratifs. Ces laboratoires fonctionnent avec une grande souplesse organisationnelle et permettent à chacun de contribuer de manière libre et autonome à un projet.
 (Source : Conseil national du Numérique)
 
 # Open source
@@ -121,15 +121,15 @@ Politique par laquelle un organisme met à la disposition de tous des données n
 
 # Portabilité
 
-La portabilité consiste en la possibilité, pour un individu, de se voir restituer les données collectées dans le cadre de son utilisation d’un service afin de d’en faire usage personnellement ou de le partager avec d’autres services.
+La portabilité consiste en la possibilité, pour un individu, de se voir restituer les données collectées dans le cadre de son utilisation d'un service afin de d'en faire usage personnellement ou de le partager avec d'autres services.
 (Source : Conseil national du Numérique)
 
 # Production participative
 
-Mode de réalisation d’un projet ou d’un produit faisant appel aux contributions d’un grand nombre de personnes, généralement des internautes. On peut, par exemple, recourir à la production participative pour concevoir un logiciel ou pour élaborer une encyclopédie. On trouve aussi l’expression « production collaborative ». Équivalent anglais : crowdsourcing.
+Mode de réalisation d'un projet ou d'un produit faisant appel aux contributions d'un grand nombre de personnes, généralement des internautes. On peut, par exemple, recourir à la production participative pour concevoir un logiciel ou pour élaborer une encyclopédie. On trouve aussi l'expression « production collaborative ». Équivalent anglais : crowdsourcing.
 (Source : France Terme)
 
 # Science des données
 
-La science de données est l'extraction de connaissance de données. Elle s’appuie sur des techniques et des théories tirées de nombreux domaines : mathématiques, statistique, théorie de l'information, modèles de probabilité, l'apprentissage automatique, la programmation informatique, l'analytique prophétique etc. Le "scientifique des données" s'appuie sur la fouille de données, les statistiques, le traitement du signal, diverses méthodes de référencement, apprentissage automatique et la visualisation de données. Il s'intéresse donc à la classification, au nettoyage, à l'exploration et à l'analyse et à la protection de bases de données.
+La science de données est l'extraction de connaissance de données. Elle s'appuie sur des techniques et des théories tirées de nombreux domaines : mathématiques, statistique, théorie de l'information, modèles de probabilité, l'apprentissage automatique, la programmation informatique, l'analytique prophétique etc. Le "scientifique des données" s'appuie sur la fouille de données, les statistiques, le traitement du signal, diverses méthodes de référencement, apprentissage automatique et la visualisation de données. Il s'intéresse donc à la classification, au nettoyage, à l'exploration et à l'analyse et à la protection de bases de données.
 (Source : Wikipédia)

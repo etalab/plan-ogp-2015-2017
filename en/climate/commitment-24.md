@@ -11,7 +11,7 @@
 
 The COP21 French chairmanship will aim to be exemplary in listening to civil society. The strong mobilization of citizens and non-governmental actors (local and regional authorities, private sector, NGOs, scientists, etc.,) in the action for climate is a priority.
 
-Transparency on the preparation of the Conference and in its implementation is a corollary of civil society’s commitment.
+Transparency on the preparation of the Conference and in its implementation is a corollary of civil society's commitment.
 
 ### Context & Aim
 
@@ -36,7 +36,7 @@ This process of transparency and dialogue with civil society will be extended af
 
 ### Roadmap
 
-- **Bring together civil society’s representatives before each informal negotiating meeting**
+- **Bring together civil society's representatives before each informal negotiating meeting**
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/194)]_
     - A [first meeting](http://www.developpement-durable.gouv.fr/Au-Bourget-pour-les-lyceens-c-est.html?var_mode=calcul) was organized before the informal session on climate negotiations on 6-8 May 2015, with civil society (French and international NGOs, representatives of unions at the UN…) in order to present the work and the state of progress of negotiations and take part in the discussion
     - New meetings will take place alongside the forthcoming negotiation sessions

@@ -2,7 +2,7 @@
 
 Organizing an open dialogue with civil society, mobilizing collective intelligence and empowering citizens to participate in public decision correspond both to citizens' expectations in our democracy and to a formidable lever for government modernization.
 
-In this context, it is time to work with all forces, intermediary bodies and the country’s dynamic forces, to fully renovate participation and decision making processes.
+In this context, it is time to work with all forces, intermediary bodies and the country's dynamic forces, to fully renovate participation and decision making processes.
 
 France has key institutions fully dedicated to the dialogue with civil society, such as the Economic, Social and Environmental Council (CESE), a consultative assembly established in 1927 and the National Commission for Public Debate created to guarantee a strong public debate around development projects of national interest.
 

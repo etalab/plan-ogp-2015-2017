@@ -11,7 +11,7 @@ Evaluation of public policies helps decision-makers make public action more rele
 
 ### Context & Aim
 
-The Prime Minister’s circular dated on February 23th, 1989, (10 May 1988/15 May 1991), on the renewal of public service, was an important step in the **affirmation of public policy evaluations as a tool for government modernization**.
+The Prime Minister's circular dated on February 23th, 1989, (10 May 1988/15 May 1991), on the renewal of public service, was an important step in the **affirmation of public policy evaluations as a tool for government modernization**.
 
 Evaluating a public policy means judging its value with regard to a set of criteria, in order to improve and inform decision-making. According to the decree of [18 November 1998](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005626964&dateTexte=20110516), it means "assessing, within an interministerial framework, the effectiveness of this policy by comparing its results to objectives assigned and resources used".
 

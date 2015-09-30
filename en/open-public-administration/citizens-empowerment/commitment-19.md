@@ -8,7 +8,7 @@
 
 ### Stakes
 
-School are opening themselves to contributions from citizens to provide their support to the transmission of the Republic’s values alongside public officials. This gives young volunteers for civic service an opportunity to participate in motivating and training actions amongst children and young people.
+School are opening themselves to contributions from citizens to provide their support to the transmission of the Republic's values alongside public officials. This gives young volunteers for civic service an opportunity to participate in motivating and training actions amongst children and young people.
 
 ### Context & Aim
 
@@ -29,7 +29,7 @@ On January 22nd of 2015, the Minister of National Education, Higher Education an
 
   The nine main types of mission of volunteers for civic service are: contribution to educative, teaching and civic responsibility activities in primary school; support to projects for education in citizen matters; support to actions and projects in the fields of artistic and cultural education and sport; support to actions and projects for education in sustainable development; organization of the national education department's civic reserve; contribution to the organization of the free time of boarders in developing new activities; prevention of addictions; information and support to young people who are failing at school or who wish to resume qualifying training; help with providing information and orientation to pupils.
 
-- **Allow citizens to support schools in the transmission of the Republic’s values: the national education department's civic reserve**
+- **Allow citizens to support schools in the transmission of the Republic's values: the national education department's civic reserve**
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/175)]_
 
   This new arrangement (as outlined in the circular dated May 12th 2015[^2]) allows adults who desire to have the opportunity to dedicate their time and provide their experience to serve schools, particularly in the following fields of expertise:
@@ -40,9 +40,9 @@ On January 22nd of 2015, the Minister of National Education, Higher Education an
   - The fight against racism, anti-semitism and all forms of discrimination,
   - The connection between schools and the professional world.
 
-  For schools, this is an opportunity to mobilize and benefit from civil society’s strengths beyond the various components of the educational community and actors who also act in of associations, civic service or in the form of ad hoc intervention. Teachers may therefore regularly call upon external speakers to illustrate their teaching within classes.
+  For schools, this is an opportunity to mobilize and benefit from civil society's strengths beyond the various components of the educational community and actors who also act in of associations, civic service or in the form of ad hoc intervention. Teachers may therefore regularly call upon external speakers to illustrate their teaching within classes.
 
-  The associations, and more generally, all people and legal entities wishing to promote the national education department's civic reserve can be associated as civic reserve’s ambassadors. Several institutions are already involved in the national education department's civic reserve (National School of administration, Conferences of the university presidents, CDEFI, CEMEA, League of education, CNOUS, "les Francas", French network of educational cities, Association of members of the Order of Academic Palms).
+  The associations, and more generally, all people and legal entities wishing to promote the national education department's civic reserve can be associated as civic reserve's ambassadors. Several institutions are already involved in the national education department's civic reserve (National School of administration, Conferences of the university presidents, CDEFI, CEMEA, League of education, CNOUS, "les Francas", French network of educational cities, Association of members of the Order of Academic Palms).
 
   Reservists are also called upon, if they wish, to intervene in extracurricular activities.
 

@@ -1,6 +1,6 @@
 # Commitment 14
 
-## Strengthen mediation and citizens’ ability to act in matters relating to justice
+## Strengthen mediation and citizens' ability to act in matters relating to justice
 
 **Lead institutions**:
 - Ministry of Justice

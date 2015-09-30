@@ -16,7 +16,7 @@ These forms of crowdsourcing relate to concrete issues: reporting problems and i
 
 #### Context & Aim
 
-Numerous towns throughout the world allow citizens to report urban malfunctions from mobile terminals: graffiti, bulky objects abandoned, dangerous crossroads, maintenance of roads, pavements, trees and gardens, connectivity, defective traffic lights and public lighting… Once a problem is identified, the user selects the type of incident in the application, takes a photo that the GPS will geo-locate to complete the description, and automatically sends it to the relevant service. It is then the town services’ responsibility to provide a solution to the problems reported.
+Numerous towns throughout the world allow citizens to report urban malfunctions from mobile terminals: graffiti, bulky objects abandoned, dangerous crossroads, maintenance of roads, pavements, trees and gardens, connectivity, defective traffic lights and public lighting… Once a problem is identified, the user selects the type of incident in the application, takes a photo that the GPS will geo-locate to complete the description, and automatically sends it to the relevant service. It is then the town services' responsibility to provide a solution to the problems reported.
 
 There are a large number of initiatives and platforms throughout the world (FixMyStreet, PublicStuff, ConnectedBits, ClickSeeFix, etc.) and in France: [Beecitiz](http://www.beecitiz.com/), [Jaidemaville](http://jaidemaville.com/), Dansmarue (Ville de paris), [Fixmaville](http://www.fixmaville.fr/), [Tellmycity](http://www.tellmycity.com/), Openmap, proxibuzz, GRC-Mobile (Localeo)…
 
@@ -24,7 +24,7 @@ Amongst the 60 measures decided by the **Interministerial Committee for Equality
 
 The objective is to provide municipalities with a simple digital solution for reporting (through web or smartphone) incidents and monitoring their resolution (back office). The municipalities that decide to implement this solution will be supported and trained.
 
-Funded as part of the “Programme d’Investissements d’avenir[^2]” (Investments for the Future program), the " Fix My Neighborhood" call for projects will launch “innovation challenges” for start-ups. While working on the response to the challenge, the start-up will include a young innovator in its team. Depending on the subject they choose to address, participatory funding may supplement public funding.
+Funded as part of the “Programme d'Investissements d'avenir[^2]” (Investments for the Future program), the " Fix My Neighborhood" call for projects will launch “innovation challenges” for start-ups. While working on the response to the challenge, the start-up will include a young innovator in its team. Depending on the subject they choose to address, participatory funding may supplement public funding.
 
 #### Roadmap
 
@@ -38,11 +38,11 @@ Funded as part of the “Programme d’Investissements d’avenir[^2]” (Invest
 ### _Digital Fix-it_
 
 **Lead institution**:
-- Prime Minister’s Office
+- Prime Minister's Office
 
 #### Context & Aim
 
-In the digital realm, contributive and crowd sourced efforts to identify problems is a good approach to ensure strong cyber security. Citizens will be offered the possibility to contribute to the identification of incidents (various cyber security incidents, notably website defacement). Named "**Digital Fix-it**", this project, conducted by Agence Nationale de la Sécurité des Systèmes d’Information (the French Cybersecurity Agency), will focus on state-controlled and semi-public websites.
+In the digital realm, contributive and crowd sourced efforts to identify problems is a good approach to ensure strong cyber security. Citizens will be offered the possibility to contribute to the identification of incidents (various cyber security incidents, notably website defacement). Named "**Digital Fix-it**", this project, conducted by Agence Nationale de la Sécurité des Systèmes d'Information (the French Cybersecurity Agency), will focus on state-controlled and semi-public websites.
 
 #### Roadmap
 

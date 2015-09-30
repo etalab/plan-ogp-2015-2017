@@ -6,8 +6,8 @@
 - Ministry of Ecology, Sustainable Development and Energy
 - Ministry of State for State Reform and Simplification, attached to the Prime Minister
 - Météo France
-- Institut national de l’information géographique et forestière (IGN)
-- Centre National d’Etudes Spatiales (CNES)
+- Institut national de l'information géographique et forestière (IGN)
+- Centre National d'Etudes Spatiales (CNES)
 
 ### Stakes
 

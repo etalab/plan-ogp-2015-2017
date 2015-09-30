@@ -5,7 +5,7 @@ opportunity for a vast consultation with civil society, within the government an
 administration as well as with independent authorities.
 
 Coordinated by [Etalab](https://www.etalab.gouv.fr/) within the Secretariat-General for Government Modernization, this
-action plan’s preparation began with the Paris conference "From open data to open
+action plan's preparation began with the Paris conference "From open data to open
 government", organized in April 2014, which brought together more than 400 participants
 (representatives of governments, experts and academics, administrations and
 representatives of civil society) and allowed the outlines of the French project for open

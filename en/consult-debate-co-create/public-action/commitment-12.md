@@ -3,7 +3,7 @@
 ## Further expand the opening of legal resources & the collaboration with civil society on opening the law
 
 **Lead institutions**:
-- Prime Minister’s Office; Ministry of the Economy, Industry and the Digital Sector
+- Prime Minister's Office; Ministry of the Economy, Industry and the Digital Sector
 - Ministry of State for State Reform and Simplification attached to the Prime Minister
 
 ### Stakes
@@ -16,7 +16,7 @@ France already has created in 2001 a **major public service for the disseminatio
 
 The open-data provision of legal data and data relating to a legal bill or its preparation allows citizens to better understand the entire legislative process, develop tools or applications from this data and participate actively in the democratic debate.
 
-The opening of legal data is thus at the core of governmental action, with the open-data publication of the databases of the Legal and Administrative Information Department (DILA) of the Prime Minister’s Office, and the establishment of the "[Open Law](http://www.dila.premier-ministre.gouv.fr/activites/experimentations/programme-open-law-le-droit-ouvert)" program. This program has given rise to numerous innovative applications developed by start-ups, researchers and companies, which were then rewarded. The publication in open data of the Official Bulletin of Public Contract Declarations (BOAMP), the Civil and Commercial Announcements Official Bulletin (BODACC) and the Mandatory Legal Notices Official Bulletin (BALO) will complement this approach[^1].
+The opening of legal data is thus at the core of governmental action, with the open-data publication of the databases of the Legal and Administrative Information Department (DILA) of the Prime Minister's Office, and the establishment of the "[Open Law](http://www.dila.premier-ministre.gouv.fr/activites/experimentations/programme-open-law-le-droit-ouvert)" program. This program has given rise to numerous innovative applications developed by start-ups, researchers and companies, which were then rewarded. The publication in open data of the Official Bulletin of Public Contract Declarations (BOAMP), the Civil and Commercial Announcements Official Bulletin (BODACC) and the Mandatory Legal Notices Official Bulletin (BALO) will complement this approach[^1].
 
 Lastly, the **consultation of citizens on government bills or before their preparation** enables the construction of effective public decisions may revitalizes democracy. When preparing the Digital Bill, the French Digital Council coordinated an [online consultation](http://contribuez.cnnumerique.fr/) over six months (see details and data in the ["methodology" appendix](../../methodology.md)). It demonstrated the extent and ability of administrations and civil society to commit to these processes.
 

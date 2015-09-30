@@ -3,7 +3,7 @@
 ## Increase transparency in public procurement
 
 **Lead institutions**:
-- Prime Minister’s Office
+- Prime Minister's Office
 - Ministry of Finance and Public Accounts
 - Ministry of the Economy, Industry and the Digital Sector
 

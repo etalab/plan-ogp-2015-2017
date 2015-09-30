@@ -25,7 +25,7 @@ The State undertakes to facilitate the recruitment of diversified profiles that 
 - **Address discriminatory biases upon entry into the civil service**
     - Upon request from the Prime Minister, launch an expert appraisal mission on discrimination issues
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/179)]_
-    - Modify the texts on juries and selection committee’s composition for each ministry to open them to at least one member outside the recruiting administration
+    - Modify the texts on juries and selection committee's composition for each ministry to open them to at least one member outside the recruiting administration
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/180)]_
     - Generalize training courses on discrimination prevention for all future members of juries and selection committees
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/181)]_

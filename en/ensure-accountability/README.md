@@ -8,7 +8,7 @@ The sharing and opening of information and the open data policies outline a sign
 
 France, its government and its regional and local authorities, have fully embraced this policy and many State-produced data are already available for all on the [data.gouv.fr](http://www.data.gouv.fr/) platform (see chapter [Open Digital Resources](../open-resources/README.md)).
 
-Nonetheless, progress in this area remains possible and desirable, while ensuring the safeguard of the Nation’s fundamental interests and the protection of some information, which should be reconciled with the objectives of transparency and openness of the Government.
+Nonetheless, progress in this area remains possible and desirable, while ensuring the safeguard of the Nation's fundamental interests and the protection of some information, which should be reconciled with the objectives of transparency and openness of the Government.
 
 A greater traceability of public policy evaluation, decision and management of public funds responds to key democratic stakes. It also provides guarantees for public efficiency.
 
@@ -20,4 +20,4 @@ Finally, echoing the improvements that have been undertaken regarding corporatio
 
 [^1]: http://www.legifrance.gouv.fr/Droit-francais/Constitution/Declaration-des-Droits-de-l-Homme-et-du-Citoyen-de-1789
 
-[^2]: Conseil d’État, Le numérique et les droits fondamentaux, Étude annuelle 2014, p. 67.
+[^2]: Conseil d'État, Le numérique et les droits fondamentaux, Étude annuelle 2014, p. 67.

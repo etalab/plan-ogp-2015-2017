@@ -9,11 +9,11 @@
 
 The Constitution states that the Cour des comptes is responsible for making a free, independent and collegial assessment of the use of public funds. It is a key institution of the French Republic. It is an independent jurisdiction situated midway between the Parliament and the Government, which provides assistance to both. It plays an essential role in the functioning of our democracy and government modernization.
 
-The Cour des comptes further undertaking on opening its own data, on promoting analysis based on data sciences, on developing citizens’ involvement in its work, contributes to the institution's commitment to the French process of open government.  
+The Cour des comptes further undertaking on opening its own data, on promoting analysis based on data sciences, on developing citizens' involvement in its work, contributes to the institution's commitment to the French process of open government.  
 
 ### Context & Aim
 
-Every year, the Cour des comptes, the regional and local chambers of the Cour des comptes and the organizations that are attached to it (High Council on Public Finances, Court of Budgetary and Financial Discipline, Council of Compulsory Levies, etc.) publish judicial decisions, reports and notices on the Cour des comptes’s website.
+Every year, the Cour des comptes, the regional and local chambers of the Cour des comptes and the organizations that are attached to it (High Council on Public Finances, Court of Budgetary and Financial Discipline, Council of Compulsory Levies, etc.) publish judicial decisions, reports and notices on the Cour des comptes's website.
 
 Articles 14 and 15 of the Declaration of the Rights of Man and of the Citizen, which provide the legal bedrock for the missions of the Cour des comptes, have remained very modern: in a democracy, citizens have the right to ascertain, by themselves or through their representatives, the need for public taxation, to consent to it freely, to watch over its use, and to determine its proportion, basis, collection and duration. They have the right to ask a public official for an accounting of her administration.
 
@@ -27,7 +27,7 @@ Following these principles, the financial jurisdictions took the initiative, fro
 
   The Cour des comptes undertakes to regularly provide the following data sets:
 
-  - The budgetary data forming the basis of current or past analyses of State’s budget execution
+  - The budgetary data forming the basis of current or past analyses of State's budget execution
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/143)]_
   - When possible, the data forming the basis of current or past themed investigations of the Cour
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/144)]_
@@ -36,7 +36,7 @@ Following these principles, the financial jurisdictions took the initiative, fro
   - Certain data on activity of the financial jurisdictions, notably the update to the list of publications from the Court and the resources of the financial jurisdictions
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/146)]_
   
-  The Cour des comptes will also study, together with the Prime Minister’s Office, the establishment of a data portal "data.ccomptes.fr", listed on the government portal (data.gouv.fr), in order to systematize a strategy of data management and the opening of public information.
+  The Cour des comptes will also study, together with the Prime Minister's Office, the establishment of a data portal "data.ccomptes.fr", listed on the government portal (data.gouv.fr), in order to systematize a strategy of data management and the opening of public information.
 
 - **Further involve citizens in the work of the Cour des comptes**
 

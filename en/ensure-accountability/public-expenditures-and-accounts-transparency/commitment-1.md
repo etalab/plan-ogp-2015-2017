@@ -2,7 +2,7 @@
 
 ## Enable citizens to consult, have a better understanding and reuse financial data and decisions of local and regional authorities
 
-### Open Regional and Local Authorities’ data
+### Open Regional and Local Authorities' data
 
 **Lead institutions**:
 - Ministry of the Interior
@@ -10,7 +10,7 @@
 
 #### Stakes
 
-To meet the citizens’ legitimate expectations and considering the large proportion of public funds spent by local and regional authorities, the financial transparency of these local authorities must be improved.
+To meet the citizens' legitimate expectations and considering the large proportion of public funds spent by local and regional authorities, the financial transparency of these local authorities must be improved.
 
 #### Context & Aim
 

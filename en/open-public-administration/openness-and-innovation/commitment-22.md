@@ -18,9 +18,9 @@ The Government has also put in place the **"Futurs Publics" program**[^2], led b
 
 The "**Investment for the future**" program has also mobilized a "_Digital transition and government modernization_" fund of €126 million, dedicated to six large areas of innovation, including one on open data.
 
-Several recommendations made in the report presented by Akim Oural to the Ministry for the Decentralization and the Civil Service on April 24th 2015 address the need for new collaborative and consultation practices, within administrations and with their environment. These changes to the administration’s operating methods will facilitate the development of digital uses enabling a profound transformation in administrative culture, and instilling a process of openness. These collaborations must still be facilitated by tools, resources and tailored processes, and by the stimulation of an ecosystem of innovators active throughout the territory.
+Several recommendations made in the report presented by Akim Oural to the Ministry for the Decentralization and the Civil Service on April 24th 2015 address the need for new collaborative and consultation practices, within administrations and with their environment. These changes to the administration's operating methods will facilitate the development of digital uses enabling a profound transformation in administrative culture, and instilling a process of openness. These collaborations must still be facilitated by tools, resources and tailored processes, and by the stimulation of an ecosystem of innovators active throughout the territory.
 
-Recent years have seen an increase and newfound interest in research programs targeting public innovation and co-construction of public action. In Paris, the Interdisciplinary Research Center (CRI) has been carrying out research on the adoption, sharing and co-construction of knowledge, ideas and common goods; on the creation of public assets and on the ability to leverage collective intelligence to solve the 21st century’s hardest challenges.
+Recent years have seen an increase and newfound interest in research programs targeting public innovation and co-construction of public action. In Paris, the Interdisciplinary Research Center (CRI) has been carrying out research on the adoption, sharing and co-construction of knowledge, ideas and common goods; on the creation of public assets and on the ability to leverage collective intelligence to solve the 21st century's hardest challenges.
 
 The Interdisciplinary Research Centre (CRI) was founded in 2005 in Paris, it is hosted by the Paris Descartes University and supported by the MENESR (Ministry of National Education, Higher Education and Research) and by the "La France s'engage" program. A research program dedicated to co-construction of public action and to open government will be established in order to continuously improve the definition and implementation of these policies.
 
@@ -29,7 +29,7 @@ The Interdisciplinary Research Centre (CRI) was founded in 2005 in Paris, it is 
 - **Drive the development of territorial public innovation**
     - Constitute a national network of "public accelerators": creation of territorial innovation platforms, "structures for sharing expertise and resources between administrations, elected representatives, State services, civil society and private organizations in a region, to accelerate innovative projects in the general interest". Prototypes are being implemented in several territories at the initiative of local authorities and private players
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/186)]_
-    - Make the digital a driver for transformation in the territories through "territorial hackathons" modeled on Etalab’s practices and intended for local authorities
+    - Make the digital a driver for transformation in the territories through "territorial hackathons" modeled on Etalab's practices and intended for local authorities
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/187)]_
     - Develop a reference social network and national web platform for the projects and actors of regional and local innovation
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/188)]_
@@ -41,6 +41,6 @@ The Interdisciplinary Research Centre (CRI) was founded in 2005 in Paris, it is 
 
 [^1]:  http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/pmms-cimap3.pdf
 
-[^2]:  "L’innovation au pouvoir ! Pour une action publique réinventée au service des territoires" (Innovation needed! For redesigned public action at the service of the regions), April http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/futurs-publics-innover-pour-moderniser-action-publique
+[^2]:  "L'innovation au pouvoir ! Pour une action publique réinventée au service des territoires" (Innovation needed! For redesigned public action at the service of the regions), April http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/futurs-publics-innover-pour-moderniser-action-publique
 
 [^3]:  http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/reacteur-public-État-et-collectivites-unis-pour-mieux-innover

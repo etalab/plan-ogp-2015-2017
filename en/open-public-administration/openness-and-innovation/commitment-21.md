@@ -5,7 +5,7 @@
 **Lead institutions**:
 - Ministry for Decentralization and the Civil Service
 - Ministry of State for State Reform and Simplification, attached to the Prime Minister
-- Ecole Nationale d’Administration (ENA)
+- Ecole Nationale d'Administration (ENA)
 
 ### Stakes
 
@@ -23,7 +23,7 @@ The **civil service schools** are also committed to promoting the spread of cult
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/183)]_
 - **Include more modules on the use of data and open government in initial and continuing training programs provided by national and regional civil service training schools**
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/184)]_
-    - Include these modules in the curricula of the Ecole Nationale de l’Administration (ENA), of the Ecole de la Modernisation de l’Etat (EME) and in any other schools that wish to support these programs,
+    - Include these modules in the curricula of the Ecole Nationale de l'Administration (ENA), of the Ecole de la Modernisation de l'Etat (EME) and in any other schools that wish to support these programs,
 - **Increase awareness on digital issues for central administration managers and support the implementation of digital transformation projects**
   _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/185)]_
     - Identify requirements, practices, difficulties and desires of central administration managers concerning digital transformation issues for society and public policies within their scope of action

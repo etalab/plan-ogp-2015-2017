@@ -9,16 +9,16 @@
 
 ### Enjeux
 
-Selon les données recensées par l’observatoire économique de l’achat public, le montant
-des marchés publics recensés était de **71,5 milliards d’euros en 2013**[^1].
+Selon les données recensées par l'observatoire économique de l'achat public, le montant
+des marchés publics recensés était de **71,5 milliards d'euros en 2013**[^1].
 
 La transparence et la bonne gestion de la commande publique sont des enjeux essentiels
 pour la France. Elles figurent dans la loi du 29 janvier 1993 relative à la prévention de la
 corruption et à la transparence de la vie économique et des procédures publiques (dite « Loi
 Sapin ») et dans le Code des marchés publics (CMP)[^2], qui, dès son article 1 er , fait de la
-transparence l’un des trois principes fondamentaux régissant la commande publique.
+transparence l'un des trois principes fondamentaux régissant la commande publique.
 
-- La **publicité a priori** des avis est notamment assurée par les dispositions des articles 26 et 40 du CMP (avec notamment obligation de publication pour les montants supérieurs à 90 000€ HT d’un avis d'appel public à la concurrence soit dans le Bulletin officiel des annonces des marchés publics (BOAMP), soit dans un journal habilité à recevoir des annonces légales, ainsi que sur son profil d'acheteur ) ;
+- La **publicité a priori** des avis est notamment assurée par les dispositions des articles 26 et 40 du CMP (avec notamment obligation de publication pour les montants supérieurs à 90 000€ HT d'un avis d'appel public à la concurrence soit dans le Bulletin officiel des annonces des marchés publics (BOAMP), soit dans un journal habilité à recevoir des annonces légales, ainsi que sur son profil d'acheteur ) ;
 - La **publicité a posteriori** des achats et des attributaires est notamment assurée par les dispositions des articles 85, 131 et 133 du CMP
 
 ### Contexte
@@ -29,27 +29,27 @@ constituer une instance permanente de concertation et d'échanges d'informations
 opérateurs économiques.
 
 Une partie des données relatives aux attributaires est déjà disponible en open data sur
-[data.gouv.fr](http://www.data.gouv.fr/) (notamment données publiées par le Service des Achats de l’État [^3] ou par
-certaines collectivités territoriales), mais celle-ci ne constitue qu’une vue très partielle de
-l’ensemble de la commande publique.
+[data.gouv.fr](http://www.data.gouv.fr/) (notamment données publiées par le Service des Achats de l'État [^3] ou par
+certaines collectivités territoriales), mais celle-ci ne constitue qu'une vue très partielle de
+l'ensemble de la commande publique.
 
 **Cette transparence doit encore progresser** : elle est en effet autant un enjeu citoyen,
-témoignant de la bonne gestion des deniers publics, qu’un enjeu économique, en facilitant
-un juste accès des entreprises à la commande publique, et un enjeu d’efficacité de l’action
+témoignant de la bonne gestion des deniers publics, qu'un enjeu économique, en facilitant
+un juste accès des entreprises à la commande publique, et un enjeu d'efficacité de l'action
 publique, en permettant un meilleur pilotage de cette politique par les responsables publics.
 
-La transposition de trois directives européennes d’ici à avril 2016 [^4] (deux directives marchés
+La transposition de trois directives européennes d'ici à avril 2016 [^4] (deux directives marchés
 publics et une directive contrats de concessions) permettra de renforcer cette transparence.
 La directive 2014/24/UE sur la passation des marchés publics prévoit une dématérialisation
-obligatoire des procédures au-dessus des seuils européens. Par ailleurs, l’envoi par voie
-électronique des avis à publier et l’accès en ligne aux documents relatifs aux appels d’offres
-est déjà en vigueur depuis 2006. Une concertation publique sur le projet d’ordonnance
+obligatoire des procédures au-dessus des seuils européens. Par ailleurs, l'envoi par voie
+électronique des avis à publier et l'accès en ligne aux documents relatifs aux appels d'offres
+est déjà en vigueur depuis 2006. Une concertation publique sur le projet d'ordonnance
 transposant le volet législatif des directives « marchés publics » [^5] a notamment été engagée
 par les ministères économiques et financiers en janvier 2015.
 
 Enfin, la mise à disposition de ressources relatives à la commande publique concerne
 également la publication en open data des données collectées dans le cadre de
-l’exécution des marchés passés par les prestataires avec lesquels les pouvoirs adjudicateurs
+l'exécution des marchés passés par les prestataires avec lesquels les pouvoirs adjudicateurs
 contractent, sous réserve de dispositions particulières applicables aux marchés de défense et
 de sécurité.
 
@@ -61,23 +61,23 @@ Association OpenDataFrance, [contribution en ligne #2925](http://contribuez.cnnu
 
 ### Feuille de route
 
-- **Standardiser le format des données de publicité des appels d’offre**
+- **Standardiser le format des données de publicité des appels d'offre**
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/120)]_
 - **Mettre à disposition, en open data, les données du Bulletin officiel des annonces de marchés publics (BOAMP), les données des organes de publication et celles des profils
-d’acheteur**
+d'acheteur**
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/121)]_
 - **Encourager le développement de la publication des informations sur les marchés publics attribués**
-    - Rendre obligatoire cette publication au-dessus des seuils fixés par voie réglementaire et développer les mesures d’accompagnement incitant les acheteurs à faire de même pour les marchés inférieurs à ces seuils et développer la publicité des profils d’acheteurs
+    - Rendre obligatoire cette publication au-dessus des seuils fixés par voie réglementaire et développer les mesures d'accompagnement incitant les acheteurs à faire de même pour les marchés inférieurs à ces seuils et développer la publicité des profils d'acheteurs
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/122)]_
-    - Promouvoir l’open data, notamment grâce à la standardisation des formulaires et leur présentation en format exploitable informatiquement et facilement réutilisable. Les données à ouvrir en priorité seront déterminées à la suite d’une phase d’étude qui n’excédera pas un an
+    - Promouvoir l'open data, notamment grâce à la standardisation des formulaires et leur présentation en format exploitable informatiquement et facilement réutilisable. Les données à ouvrir en priorité seront déterminées à la suite d'une phase d'étude qui n'excédera pas un an
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/123)]_
-- **Inclure dans les contrats passés par les acheteurs des clauses d’ouverture des données**
-    - Inciter les prestataires à ouvrir les données produites dans le cadre de l’exécution d’un marché par la définition d’un Cahier des clauses administratives générales (CCAG) type
+- **Inclure dans les contrats passés par les acheteurs des clauses d'ouverture des données**
+    - Inciter les prestataires à ouvrir les données produites dans le cadre de l'exécution d'un marché par la définition d'un Cahier des clauses administratives générales (CCAG) type
       _[[suivi](https://git.framasoft.org/etalab/suivi/issues/124)]_
 
 ### Et aussi :
 
-- Les marchés publics de la **Ville de Paris** comportent désormais une clause « Open Data[^6] » : depuis le 17 avril 2014, chaque appel d’offre comprend des dispositions obligeant le futur prestataire à libérer les données produites dans le cadre de l’exécution du marché auquel il répond
+- Les marchés publics de la **Ville de Paris** comportent désormais une clause « Open Data[^6] » : depuis le 17 avril 2014, chaque appel d'offre comprend des dispositions obligeant le futur prestataire à libérer les données produites dans le cadre de l'exécution du marché auquel il répond
 - Des initiatives locales telles que [« My Breizh Open Data »](http://breizhsmallbusinessact.fr/my-breizh-open-data-marches-publics/), soutenu par la Région Bretagne, se sont également développées pour améliorer la visibilité et la lisibilité de la commande publique.
 
 ----

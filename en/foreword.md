@@ -42,7 +42,7 @@ the comments and initiatives of civil society.
 
 France is at the avant-garde through its practices, such as this action plan. Elaborated
 through consultation and trust, it proposes several tangible improvements and draws very
-ambitious perspectives that we will attain together with the Partnership’s Independent
+ambitious perspectives that we will attain together with the Partnership's Independent
 Reporting Mechanism.
 
 This document is a first step. Many more are to follow for the values of the Republic to

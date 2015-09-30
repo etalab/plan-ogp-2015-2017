@@ -7,7 +7,7 @@
 
 ### Context & Aim
 
-**Since the October 11th 2013 Transparency Bills, public life has beneficiated from a new impulsion**. In particular, these bills state that the 10,000 highest-ranking public officials (elected or appointed) must declare their assets and interests to the **High Authority for Transparency in Public Life (HATVP)**, the body monitoring said assets and interests. One of the bills’ objectives is to widely involve civil society in these controls.
+**Since the October 11th 2013 Transparency Bills, public life has beneficiated from a new impulsion**. In particular, these bills state that the 10,000 highest-ranking public officials (elected or appointed) must declare their assets and interests to the **High Authority for Transparency in Public Life (HATVP)**, the body monitoring said assets and interests. One of the bills' objectives is to widely involve civil society in these controls.
 
 Declarations of assets and interests of members of the Government, as well as declarations of interests by French and European members of Parliament and local elected representatives, are published and posted on the HATVP website. According to the Constitutional Council, the publication of this information allows "each citizen to ensure the implementation of guarantees on the probity and integrity of these elected representatives, and to avoid and prevent conflicts of interest"[^1]. It also allows citizens to complement these declarations by passing on to the High Authority information they have and that is not contained in the declarations published.
 

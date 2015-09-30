@@ -3,12 +3,12 @@
 ## Strengthen interaction with users and improve public services through e-government
 
 **Lead institutions**:
-- Prime Minister’s Office
+- Prime Minister's Office
 - Ministry of State for State Reform and Simplification attached to the Prime Minister
 
 ### Stakes
 
-The digitalization of user services and administration’s internal processes has become an essential element of public action.  
+The digitalization of user services and administration's internal processes has become an essential element of public action.  
 
 The involvement of stakeholders in the conception or the evolution of these projects, the exploitation of data produced by digital services and the opening of new channels of interaction with the users constitute important axes of the open government project.  
 

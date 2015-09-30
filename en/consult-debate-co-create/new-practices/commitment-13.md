@@ -3,7 +3,7 @@
 ## Leverage previous consultations & reform participatory mechanisms
 
 **Lead institutions**:
-- Prime Minister’s Office; Ministry of Ecology, Sustainable Development and Energy
+- Prime Minister's Office; Ministry of Ecology, Sustainable Development and Energy
 - Ministry of State for State Reform and Simplification attached to the Prime Minister
 - National Commission for Public Debate
 
@@ -11,7 +11,7 @@
 
 **The informed participation of citizens in the process of public decision-making** is based on the ability of administrations to facilitate the understanding, by each of them, of the functioning of institutions and their activity, to open resources that can be used by them and to effectively mobilize their contribution.
 
-As emphasized by France Stratégie in the report on Tomorrow’s Public Action[^1]: "_Society is willing to endow citizens’ decisional bodies with real powers, in addition to representative democracy_". Participative arrangements have become numerous, in very diverse formats. "_Properly run, these approaches contribute to rebuilding trust within the population because they embody the principle of questioning citizens_".
+As emphasized by France Stratégie in the report on Tomorrow's Public Action[^1]: "_Society is willing to endow citizens' decisional bodies with real powers, in addition to representative democracy_". Participative arrangements have become numerous, in very diverse formats. "_Properly run, these approaches contribute to rebuilding trust within the population because they embody the principle of questioning citizens_".
 
 Public stakeholders should then be able to capitalize on consultations already carried out, and be able to easily mobilize tools for dialogue and consultation, and effectively integrate them into the process of the development of public decision-making.  
 

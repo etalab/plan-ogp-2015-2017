@@ -7,7 +7,7 @@
 
 ### Stakes
 
-The importance given to public officials’ exemplary behavior in their day-to-day actions for the general interest is an eminent element of the French republican model. The transposition of measures on the transparency in public life, to public agent, will further expand exemplarity within the civil service and obligations contained in the general statute of civil servants. A system will also be introduced to protect civil servants acting in good faith to report the existence of a conflict of interest.
+The importance given to public officials' exemplary behavior in their day-to-day actions for the general interest is an eminent element of the French republican model. The transposition of measures on the transparency in public life, to public agent, will further expand exemplarity within the civil service and obligations contained in the general statute of civil servants. A system will also be introduced to protect civil servants acting in good faith to report the existence of a conflict of interest.
 
 ### Context & Aim
 
@@ -27,7 +27,7 @@ The bill thus **consecrates the active role to be played by each official and no
 - **Introduce legal provisions to better prevent conflicts of interests and to protect civil servants**
     - Put in place a system for agents responsible for certain functions to declare their interests
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/191)]_
-    - Reinforce and widen the area of competence of the ethics committee, which will be expanded to include the prevention of conflicts of interest and reinforced in the area of the control of civil servant’s transitions to the private sector
+    - Reinforce and widen the area of competence of the ethics committee, which will be expanded to include the prevention of conflicts of interest and reinforced in the area of the control of civil servant's transitions to the private sector
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/192)]_
     - Introduce a protection mechanism in the general statute of officials, so as to allow an agent acting in good faith to report the existence of a conflict of interest without fear of reprisals
       _[[follow-up](https://git.framasoft.org/etalab/suivi/issues/193)]_
