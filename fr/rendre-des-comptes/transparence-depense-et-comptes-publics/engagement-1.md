@@ -20,7 +20,7 @@ compris les pièces justificatives des comptes, sont communicables à toute pers
 fait la demande en application de l'article L. 2121-26 du code général des collectivités
 territoriales. La publication en open data des budgets et comptes est déjà pratiquée par un
 de nombreuses collectivités telles que la [ville de Rennes](http://www.data.rennes-metropole.fr/), le [département des Hauts-de-Seine](http://opendata.hauts-de-seine.net/),
-la [région Provence Alpes Côtes d'Azur](http://opendata.regionpaca.fr/), [la ville de Montpellier](http://montpellier.territoirenumerique.org/), [la ville de Paris](http://opendata.paris.fr/), etc.
+la [région Provence Alpes Côtes d'Azur](http://opendata.regionpaca.fr/), la [ville de Montpellier](http://montpellier.territoirenumerique.org/), la [ville de Paris](http://opendata.paris.fr/), etc.
 
 De plus, la Direction générale des Finances publiques publie d'ores et déjà sur le site conjoint
 DGCL-DGFiP, [collectivites-locales.gouv.fr](http://www.collectivites-locales.gouv.fr/), les fiches financières individuelles des collectivités
