@@ -43,7 +43,7 @@ Cette dynamique de transparence et de dialogue avec la société civile sera pro
         - mettre en réseau les habitants, collectifs, porteurs de projets, entreprises, collectivités locales et parties prenantes ;
         - faciliter les prises de contact et la coopération sur le moyen terme entre les différents  acteurs  de  la  « citoyenneté  environnementale »,  en  ligne, notamment ;
         - créer des coopérations décentralisées et une communauté d'acteurs de l'e-citoyenneté environnementale ;
-        - recueillir les suggestions et avis des internautes pour permettre le recensement ollaboratif des initiatives locales et constituer une large base de données.
+        - recueillir les suggestions et avis des internautes pour permettre le recensement collaboratif des initiatives locales et constituer une large base de données.
     - Développement d'une deuxième version de la plateforme afin de faire vivre la mobilisation citoyenne au-delà de COP 21. Elle pourrait offrir un support aux consultations citoyennes du Ministère de l'écologie et du développement durable et de l'énergie
 - **Poursuivre la consultation sur les enjeux du climat afin de donner suite au débat citoyen planétaire du 6 juin 2015, qui a rassemblé plus de 10 000 citoyens de 75 pays**
   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/196)]_
