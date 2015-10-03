@@ -46,22 +46,22 @@ notamment le respect des secrets protégés par la loi.
 - **Diffuser en open data certaines données collectées lors de contrôles et d'évaluations, ainsi que des données propres aux juridictions financières**
 
   La Cour des comptes s'engage à mettre à disposition régulièrement les jeux de données suivants :
-- Les données budgétaires fondant ou ayant fondé l'analyse de l'exécution du budget de l'État 
-_[[suivi](https://git.framasoft.org/etalab/suivi/issues/143)]_
-- À chaque fois que cela sera possible, les données fondant ou ayant fondé les enquêtes thématiques de la Cour
-_[[suivi](https://git.framasoft.org/etalab/suivi/issues/144)]_
-- Les données fondant ou ayant fondé les travaux concernant les finances locales
-_[[suivi](https://git.framasoft.org/etalab/suivi/issues/145)]_
-- Certaines données d'activité des juridictions financières, notamment la mise à jour de la liste des publications de la Cour et des moyens des juridictions financières
-_[[suivi](https://git.framasoft.org/etalab/suivi/issues/146)]_ 
-      
+  - Les données budgétaires fondant ou ayant fondé l'analyse de l'exécution du budget de l'État
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/143)]_
+  - À chaque fois que cela sera possible, les données fondant ou ayant fondé les enquêtes thématiques de la Cour
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/144)]_
+  - Les données fondant ou ayant fondé les travaux concernant les finances locales
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/145)]_
+  - Certaines données d'activité des juridictions financières, notamment la mise à jour de la liste des publications de la Cour et des moyens des juridictions financières
+  _[[suivi](https://git.framasoft.org/etalab/suivi/issues/146)]_
+
   La Cour des comptes étudiera également, en lien avec les services du Premier ministre, la mise en place d'un portail de données « data.ccomptes.fr », répertorié sur le portail du gouvernement (data.gouv.fr), afin de systématiser une stratégie de gestion des données et la démarche d'ouverture des informations publiques.
 
 - **Intéresser davantage le citoyen aux travaux de la Cour des comptes**
 
   Cette implication pourrait prendre plusieurs formes :
 
-- une enquête d'opinion afin de mieux identifier les attentes du citoyen vis-à-vis des travaux de la Cour, sur le fond comme sur la forme
- _[[suivi](https://git.framasoft.org/etalab/suivi/issues/147)]_ 
-- un espace contributif permettant une remontée des préoccupations des citoyens
- _[[suivi](https://git.framasoft.org/etalab/suivi/issues/148)]_ 
+  - une enquête d'opinion afin de mieux identifier les attentes du citoyen vis-à-vis des travaux de la Cour, sur le fond comme sur la forme
+   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/147)]_
+  - un espace contributif permettant une remontée des préoccupations des citoyens
+   _[[suivi](https://git.framasoft.org/etalab/suivi/issues/148)]_
